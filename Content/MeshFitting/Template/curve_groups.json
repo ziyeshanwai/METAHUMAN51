@@ -1,0 +1,61 @@
+{
+	"brow_l": [
+		"brow_middle_line_l"
+	],
+	"brow_r": [
+		"brow_middle_line_r"
+	],
+	"eye_l": [
+		"crv_eyefold_l",
+		"crv_eyecrease_l",
+		"crv_eyelid_lower_l",
+		"crv_eyelid_upper_l",
+		"crv_outer_eyelid_edge_left_upper",
+		"crv_outer_eyelid_edge_left_lower",
+		"eye_plica_semilunaris_l"
+	],
+	"eye_r": [
+		"crv_eyefold_r",
+		"crv_eyecrease_r",
+		"crv_eyelid_lower_r",
+		"crv_eyelid_upper_r",
+		"crv_outer_eyelid_edge_right_lower",
+		"crv_outer_eyelid_edge_right_upper",
+		"eye_plica_semilunaris_r"
+	],
+	"lip_upper": [
+		"crv_lip_upper_outer_l",
+		"crv_lip_upper_outer_r",
+		"crv_lip_upper_inner_l",
+		"crv_lip_upper_inner_r",
+		"crv_lip_philtrum_l",
+		"crv_lip_philtrum_r"
+	],
+	"lip_lower": [
+		"crv_lip_lower_outer_l",
+		"crv_lip_lower_outer_r",
+		"crv_lip_lower_inner_l",
+		"crv_lip_lower_inner_r",
+		"crv_mentolabial_fold"
+	],
+	"nose_l": [
+		"crv_nostril_l",
+		"crv_nasolabial_l"
+	],
+	"nose_r": [
+		"crv_nostril_r",
+		"crv_nasolabial_r"
+	],
+	"ear_l": [
+		"crv_ear_outer_helix_l",
+		"crv_ear_inner_helix_l",
+		"crv_ear_central_lower_l",
+		"crv_ear_central_upper_l"
+	],
+	"ear_r": [
+		"crv_ear_outer_helix_r",
+		"crv_ear_inner_helix_r",
+		"crv_ear_central_lower_r",
+		"crv_ear_central_upper_r"
+	]
+}

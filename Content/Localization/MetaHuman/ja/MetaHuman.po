@@ -1,0 +1,1331 @@
+# MetaHuman English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MetaHuman\n"
+"POT-Creation-Date: 2022-05-16 16:27\n"
+"PO-Revision-Date: 2022-05-16 16:27\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	FMetaHumanIdentityModule
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:10
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:10
+msgctxt "Contexts,FMetaHumanIdentityModule"
+msgid "MetaHuman Identity Asset Editor"
+msgstr "MetaHuman日本"
+
+#. Key:	LoadTrackersNotification
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAsset.cpp:44
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAsset.cpp:44
+msgctxt "FaceContourTracker,LoadTrackersNotification"
+msgid "Loading trackers..."
+msgstr "Loading trackers..."
+
+#. Key:	MHEula_Title
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/AutoRigService.cpp:336
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/AutoRigService.cpp:336
+msgctxt "FAutoRigServiceModule,MHEula_Title"
+msgid "End User License Agreement"
+msgstr "End User License Agreement"
+
+#. Key:	ALabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:453
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:453
+msgctxt "MetaHuman,ALabel"
+msgid "A"
+msgstr "A"
+
+#. Key:	BLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:462
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:462
+msgctxt "MetaHuman,BLabel"
+msgid "B"
+msgstr "B"
+
+#. Key:	FootageCaptureDataAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:41
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:41
+msgctxt "MetaHuman,FootageCaptureDataAssetName"
+msgid "Capture Data (Footage)"
+msgstr "Capture Data (Footage)"
+
+#. Key:	MeshCaptureDataAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:12
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:12
+msgctxt "MetaHuman,MeshCaptureDataAssetName"
+msgid "Capture Data (Mesh)"
+msgstr "Capture Data (Mesh)"
+
+#. Key:	MetaHumanAssetCategoryLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:114
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:114
+msgctxt "MetaHuman,MetaHumanAssetCategoryLabel"
+msgid "MetaHuman"
+msgstr "MetaHuman"
+
+#. Key:	MetaHumanFaceContourTrackerAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAssetActions.cpp:18
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAssetActions.cpp:18
+msgctxt "MetaHuman,MetaHumanFaceContourTrackerAssetName"
+msgid "Face Contour Tracker"
+msgstr "Face Contour Tracker"
+
+#. Key:	MetaHumanIdentityAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_MetaHumanIdentity.cpp:10
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_MetaHumanIdentity.cpp:10
+msgctxt "MetaHuman,MetaHumanIdentityAssetName"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman Identity"
+
+#. Key:	MHEula_Accept
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:145
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:145
+msgctxt "MetaHuman,MHEula_Accept"
+msgid "Accept"
+msgstr "Accept"
+
+#. Key:	MHEula_AcceptCheckbox
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:130
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:130
+msgctxt "MetaHuman,MHEula_AcceptCheckbox"
+msgid "I have read and agree to the terms and conditions"
+msgstr "I have read and agree to the terms and conditions"
+
+#. Key:	SettingsDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+msgctxt "MetaHuman,SettingsDescription"
+msgid "Configure MetaHuman settings"
+msgstr "Configure MetaHuman settings"
+
+#. Key:	SettingsName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+msgctxt "MetaHuman,SettingsName"
+msgid "MetaHuman"
+msgstr "MetaHuman"
+
+#. Key:	MoveIdentityComponent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/ConformingViewportClient.cpp:134
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/ConformingViewportClient.cpp:134
+msgctxt "MetaHumanIdentity,MoveIdentityComponent"
+msgid "Modify MetaHuman Identity"
+msgstr "Modify MetaHuman Identity"
+
+#. Key:	MoveMultipleIdentityComponents
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/ConformingViewportClient.cpp:136
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/ConformingViewportClient.cpp:136
+msgctxt "MetaHumanIdentity,MoveMultipleIdentityComponents"
+msgid "Modify Multiple"
+msgstr "Modify Multiple"
+
+#. Key:	AddLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:22
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:22
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddLabel"
+msgid "Add"
+msgstr "Add"
+
+#. Key:	AddNeutralDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:103
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:103
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddNeutralDescription"
+msgid "Add a pose with a neutral expression of the MetaHuman Identity"
+msgstr "Add a pose with a neutral expression of the MetaHuman Identity"
+
+#. Key:	AddNeutralLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:102
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:102
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddNeutralLabel"
+msgid "Add Neutral"
+msgstr "Add Neutral"
+
+#. Key:	AddPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:34
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:34
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPart"
+msgid "Add Part"
+msgstr "Add Part"
+
+#. Key:	AddPartTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:35
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:35
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPartTooltip"
+msgid "Add a new part to this MetaHuman Identity"
+msgstr "Add a new part to this MetaHuman Identity"
+
+#. Key:	AddPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:38
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:38
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPose"
+msgid "Add Pose"
+msgstr "Add Pose"
+
+#. Key:	AddPoseTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:39
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:39
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPoseTooltip"
+msgid "Add a new pose for this MetaHuman Identity"
+msgstr "Add a new pose for this MetaHuman Identity"
+
+#. Key:	CreateNewPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:32
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:32
+msgctxt "MetaHumanIdentityComponentsClassCombo,CreateNewPart"
+msgid "Create"
+msgstr "Create"
+
+#. Key:	CreateNewPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:99
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:99
+msgctxt "MetaHumanIdentityComponentsClassCombo,CreateNewPose"
+msgid "Create Pose"
+msgstr "Create Pose"
+
+#. Key:	CreateNewPoseGroup
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:125
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:125
+msgctxt "MetaHumanIdentityComponentsClassCombo,CreateNewPoseGroup"
+msgid "CreatePoseGroup"
+msgstr "CreatePoseGroup"
+
+#. Key:	CurveActiveChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:196
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:196
+msgctxt "MetaHumanIdentityOutliner,CurveActiveChangedTransaction"
+msgid "Edit Curve Is Active"
+msgstr "Edit Curve Is Active"
+
+#. Key:	CurveVisibilityChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:88
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:88
+msgctxt "MetaHumanIdentityOutliner,CurveVisibilityChangedTransaction"
+msgid "Edit Curve Is Visible"
+msgstr "Edit Curve Is Visible"
+
+#. Key:	FrameActiveChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:220
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:220
+msgctxt "MetaHumanIdentityOutliner,FrameActiveChangedTransaction"
+msgid "Edit PromotedFrame Is Active"
+msgstr "Edit PromotedFrame Is Active"
+
+#. Key:	FrameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:60
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:60
+msgctxt "MetaHumanIdentityOutliner,FrameLabel"
+msgid "Frame {0}"
+msgstr "Frame {0}"
+
+#. Key:	FrameVisibilityChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:113
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:113
+msgctxt "MetaHumanIdentityOutliner,FrameVisibilityChangedTransaction"
+msgid "Edit PromotedFrame Is Visible"
+msgstr "Edit PromotedFrame Is Visible"
+
+#. Key:	GroupActiveChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:185
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:185
+msgctxt "MetaHumanIdentityOutliner,GroupActiveChangedTransaction"
+msgid "Edit Group Is Active"
+msgstr "Edit Group Is Active"
+
+#. Key:	GroupVisibilityChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:77
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:77
+msgctxt "MetaHumanIdentityOutliner,GroupVisibilityChangedTransaction"
+msgid "Edit Group Is Visible"
+msgstr "Edit Group Is Visible"
+
+#. Key:	InvalidNodeName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:63
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:63
+msgctxt "MetaHumanIdentityOutliner,InvalidNodeName"
+msgid "<Invalid Node>"
+msgstr "<Invalid Node>"
+
+#. Key:	OutlineColumnLabel_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:526
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:526
+msgctxt "MetaHumanIdentityOutliner,OutlineColumnLabel_Active"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	OutlineColumnLabel_Frame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:518
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:518
+msgctxt "MetaHumanIdentityOutliner,OutlineColumnLabel_Frame"
+msgid "Frame"
+msgstr "Frame"
+
+#. Key:	OutlineColumnLabel_Visible
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:522
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:522
+msgctxt "MetaHumanIdentityOutliner,OutlineColumnLabel_Visible"
+msgid "Visible"
+msgstr "Visible"
+
+#. Key:	ApplyDNATransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:417
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:417
+msgctxt "MetaHumanIdentityParts,ApplyDNATransaction"
+msgid "Apply DNA to Rig"
+msgstr "Apply DNA to Rig"
+
+#. Key:	ConformProgressText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:334
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:334
+msgctxt "MetaHumanIdentityParts,ConformProgressText"
+msgid "Running MetaHuman Identity Solve..."
+msgstr "Running MetaHuman Identity Solve..."
+
+#. Key:	IdentityBodyComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:847
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:847
+msgctxt "MetaHumanIdentityParts,IdentityBodyComponentDescription"
+msgid "The Body of the MetaHuman Identity"
+msgstr "The Body of the MetaHuman Identity"
+
+#. Key:	IdentityBodyComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:842
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:842
+msgctxt "MetaHumanIdentityParts,IdentityBodyComponentName"
+msgid "Body"
+msgstr "Body"
+
+#. Key:	IdentityFacePartDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:288
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:288
+msgctxt "MetaHumanIdentityParts,IdentityFacePartDescription"
+msgid "The Face of the MetaHuman Identity. This creates a new static mesh asset representing the Template Mesh"
+msgstr "The Face of the MetaHuman Identity. This creates a new static mesh asset representing the Template Mesh"
+
+#. Key:	IdentityFacePartName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:283
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:283
+msgctxt "MetaHumanIdentityParts,IdentityFacePartName"
+msgid "Face"
+msgstr "Face"
+
+#. Key:	IdentityHandComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:875
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:875
+msgctxt "MetaHumanIdentityParts,IdentityHandComponentDescription"
+msgid "The Hands of the MetaHuman Identity"
+msgstr "The Hands of the MetaHuman Identity"
+
+#. Key:	IdentityHandComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:870
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:870
+msgctxt "MetaHumanIdentityParts,IdentityHandComponentName"
+msgid "Hands"
+msgstr "Hands"
+
+#. Key:	IdentityOutfitComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:903
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:903
+msgctxt "MetaHumanIdentityParts,IdentityOutfitComponentDescription"
+msgid "The Outfit of the MetaHuman Identity"
+msgstr "The Outfit of the MetaHuman Identity"
+
+#. Key:	IdentityOutfitComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:898
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:898
+msgctxt "MetaHumanIdentityParts,IdentityOutfitComponentName"
+msgid "Outfit"
+msgstr "Outfit"
+
+#. Key:	IdentityPropComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:930
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:930
+msgctxt "MetaHumanIdentityParts,IdentityPropComponentDescription"
+msgid "A Prop for the MetaHuman Identity"
+msgstr "A Prop for the MetaHuman Identity"
+
+#. Key:	IdentityPropComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:925
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:925
+msgctxt "MetaHumanIdentityParts,IdentityPropComponentName"
+msgid "Prop"
+msgstr "Prop"
+
+#. Key:	AddFaceFromStaticMesh
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:383
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:383
+msgctxt "MetaHumanIdentityPartsEditor,AddFaceFromStaticMesh"
+msgid "Add MetaHuman Identity Face from Static Mesh"
+msgstr "Add MetaHuman Identity Face from Static Mesh"
+
+#. Key:	AddIdentityPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:587
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:587
+msgctxt "MetaHumanIdentityPartsEditor,AddIdentityPart"
+msgid "Add Part to the MetaHuman Identity"
+msgstr "Add Part to the MetaHuman Identity"
+
+#. Key:	AddIdentityPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:635
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:635
+msgctxt "MetaHumanIdentityPartsEditor,AddIdentityPose"
+msgid "Add Pose to the MetaHuman Identity"
+msgstr "Add Pose to the MetaHuman Identity"
+
+#. Key:	InvalidNodeName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:198
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:198
+msgctxt "MetaHumanIdentityPartsEditor,InvalidNodeName"
+msgid "<Invalid Node>"
+msgstr "<Invalid Node>"
+
+#. Key:	PartCommandsViewSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:822
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:822
+msgctxt "MetaHumanIdentityPartsEditor,PartCommandsViewSectionLabel"
+msgid "View Options"
+msgstr "View Options"
+
+#. Key:	PartsCommandPartsSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:816
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:816
+msgctxt "MetaHumanIdentityPartsEditor,PartsCommandPartsSectionLabel"
+msgid "Part Options"
+msgstr "Part Options"
+
+#. Key:	RemoveIdentityPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:756
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:756
+msgctxt "MetaHumanIdentityPartsEditor,RemoveIdentityPart"
+msgid "Remove Part from MetaHuman Identity"
+msgstr "Remove Part from MetaHuman Identity"
+
+#. Key:	RemoveIdentityPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:780
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:780
+msgctxt "MetaHumanIdentityPartsEditor,RemoveIdentityPose"
+msgid "Remove Pose from MetaHuman Identity"
+msgstr "Remove Pose from MetaHuman Identity"
+
+#. Key:	BodyHeightTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:554
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:554
+msgctxt "MetaHumanIdentityPoseCustomization,BodyHeightTransaction"
+msgid "Change Body Height"
+msgstr "Change Body Height"
+
+#. Key:	BodyTypeTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:586
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:586
+msgctxt "MetaHumanIdentityPoseCustomization,BodyTypeTransaction"
+msgid "Change Body Type"
+msgstr "Change Body Type"
+
+#. Key:	CameraGroupLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:292
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:292
+msgctxt "MetaHumanIdentityPoseCustomization,CameraGroupLabel"
+msgid "Camera Transform"
+msgstr "Camera Transform"
+
+#. Key:	CameraLocationLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:300
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:300
+msgctxt "MetaHumanIdentityPoseCustomization,CameraLocationLabel"
+msgid "Location"
+msgstr "Location"
+
+#. Key:	CameraOrbitPivotLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:328
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:328
+msgctxt "MetaHumanIdentityPoseCustomization,CameraOrbitPivotLabel"
+msgid "Orbit Pivot"
+msgstr "Orbit Pivot"
+
+#. Key:	CameraRotationLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:314
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:314
+msgctxt "MetaHumanIdentityPoseCustomization,CameraRotationLabel"
+msgid "Rotation"
+msgstr "Rotation"
+
+#. Key:	Detail_BodyType
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:566
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:566
+msgctxt "MetaHumanIdentityPoseCustomization,Detail_BodyType"
+msgid "Body Type"
+msgstr "Body Type"
+
+#. Key:	Detail_Height
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:531
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:531
+msgctxt "MetaHumanIdentityPoseCustomization,Detail_Height"
+msgid "Height"
+msgstr "Height"
+
+#. Key:	FailToReadNumMarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:239
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:239
+msgctxt "MetaHumanIdentityPoseCustomization,FailToReadNumMarkersLabel"
+msgid "Error reading number of markers"
+msgstr "Error reading number of markers"
+
+#. Key:	InvalidFieldText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:462
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:462
+msgctxt "MetaHumanIdentityPoseCustomization,InvalidFieldText"
+msgid "Invalid value for ETransformField"
+msgstr "Invalid value for ETransformField"
+
+#. Key:	InvalidMarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:173
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:173
+msgctxt "MetaHumanIdentityPoseCustomization,InvalidMarkersLabel"
+msgid "Invalid Markers Property"
+msgstr "Invalid Markers Property"
+
+#. Key:	MarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:156
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:156
+msgctxt "MetaHumanIdentityPoseCustomization,MarkersLabel"
+msgid "Markers"
+msgstr "Markers"
+
+#. Key:	MetaHumanIdentity
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:610
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:610
+msgctxt "MetaHumanIdentityPoseCustomization,MetaHumanIdentity"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman Identity"
+
+#. Key:	NumMarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:235
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:235
+msgctxt "MetaHumanIdentityPoseCustomization,NumMarkersLabel"
+msgid "{0} Markers"
+msgstr "{0} Markers"
+
+#. Key:	PromotedFrameIndex
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:264
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:264
+msgctxt "MetaHumanIdentityPoseCustomization,PromotedFrameIndex"
+msgid "Frame {0}"
+msgstr "Frame {0}"
+
+#. Key:	AddPromotedFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:580
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:580
+msgctxt "MetaHumanIdentityPromotedFrames,AddPromotedFrame"
+msgid "Promote Frame"
+msgstr "Promote Frame"
+
+#. Key:	CameraMovedTransactionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:673
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:673
+msgctxt "MetaHumanIdentityPromotedFrames,CameraMovedTransactionLabel"
+msgid "Camera Moved"
+msgstr "Camera Moved"
+
+#. Key:	EditFrameNameTransactionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:197
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:197
+msgctxt "MetaHumanIdentityPromotedFrames,EditFrameNameTransactionLabel"
+msgid "Edit Frame Name"
+msgstr "Edit Frame Name"
+
+#. Key:	LockNavigationLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:553
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:553
+msgctxt "MetaHumanIdentityPromotedFrames,LockNavigationLabel"
+msgid "Lock Camera"
+msgstr "Lock Camera"
+
+#. Key:	LockNavigationTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:554
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:554
+msgctxt "MetaHumanIdentityPromotedFrames,LockNavigationTooltip"
+msgid "Locks the camera navigation for this frame and switches to a 2D navigation mode"
+msgstr "Locks the camera navigation for this frame and switches to a 2D navigation mode"
+
+#. Key:	LockPromotedFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:697
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:697
+msgctxt "MetaHumanIdentityPromotedFrames,LockPromotedFrame"
+msgid "Edit Track On Change"
+msgstr "Edit Track On Change"
+
+#. Key:	PromotedFrameCommandsMenuSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:565
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:565
+msgctxt "MetaHumanIdentityPromotedFrames,PromotedFrameCommandsMenuSection"
+msgid "Commands"
+msgstr "Commands"
+
+#. Key:	PromotedFrameTrackingModeMenuSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:532
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:532
+msgctxt "MetaHumanIdentityPromotedFrames,PromotedFrameTrackingModeMenuSection"
+msgid "Tracking Mode"
+msgstr "Tracking Mode"
+
+#. Key:	RemotePromotedFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:612
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:612
+msgctxt "MetaHumanIdentityPromotedFrames,RemotePromotedFrame"
+msgid "Remove Promoted Frame"
+msgstr "Remove Promoted Frame"
+
+#. Key:	TrackManuallyLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:543
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:543
+msgctxt "MetaHumanIdentityPromotedFrames,TrackManuallyLabel"
+msgid "Autotracking Off"
+msgstr "Autotracking Off"
+
+#. Key:	TrackManuallyTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:544
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:544
+msgctxt "MetaHumanIdentityPromotedFrames,TrackManuallyTooltip"
+msgid "Run the face tracker manually"
+msgstr "Run the face tracker manually"
+
+#. Key:	TrackOnChangeLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:534
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:534
+msgctxt "MetaHumanIdentityPromotedFrames,TrackOnChangeLabel"
+msgid "Autotracking On"
+msgstr "Autotracking On"
+
+#. Key:	TrackOnChangeTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:535
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:535
+msgctxt "MetaHumanIdentityPromotedFrames,TrackOnChangeTooltip"
+msgid "Run face tracker when the camera stops moving"
+msgstr "Run face tracker when the camera stops moving"
+
+#. Key:	AddFaceFromMeshToolButtonLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:423
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:423
+msgctxt "MetaHumanIdentityToolkit,AddFaceFromMeshToolButtonLabel"
+msgid "Components from Mesh"
+msgstr "Components from Mesh"
+
+#. Key:	AddFaceFromMeshToolButtonTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:424
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:424
+msgctxt "MetaHumanIdentityToolkit,AddFaceFromMeshToolButtonTooltip"
+msgid "Create a Capture Data (Mesh) and a Face part from a Static Mesh with a Neutral Pose"
+msgstr "Create a Capture Data (Mesh) and a Face part from a Static Mesh with a Neutral Pose"
+
+#. Key:	ARNoBody
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:802
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:802
+msgctxt "MetaHumanIdentityToolkit,ARNoBody"
+msgid "Mesh to MetaHuman requires the addition of a Body Part, and a Body Type Preset selection."
+msgstr "Mesh to MetaHuman requires the addition of a Body Part, and a Body Type Preset selection."
+
+#. Key:	ARNoBodyType
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:792
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:792
+msgctxt "MetaHumanIdentityToolkit,ARNoBodyType"
+msgid "No Body Type Preset is selected in the Body Part. Please select a Body Type Preset to continue."
+msgstr "No Body Type Preset is selected in the Body Part. Please select a Body Type Preset to continue."
+
+#. Key:	ARSBusy
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:841
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:841
+msgctxt "MetaHumanIdentityToolkit,ARSBusy"
+msgid "Mesh to MetaHuman service is busy, try again later"
+msgstr "Mesh to MetaHuman service is busy, try again later"
+
+#. Key:	ARSErrorTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:791
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:791
+msgctxt "MetaHumanIdentityToolkit,ARSErrorTitle"
+msgid "Mesh to MetaHuman Error"
+msgstr "Mesh to MetaHuman Error"
+
+#. Key:	ARSEulaNotAccepted
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:847
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:847
+msgctxt "MetaHumanIdentityToolkit,ARSEulaNotAccepted"
+msgid "Mesh to MetaHuman EULA was not accepted"
+msgstr "Mesh to MetaHuman EULA was not accepted"
+
+#. Key:	ARSInvalidArguments
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:850
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:850
+msgctxt "MetaHumanIdentityToolkit,ARSInvalidArguments"
+msgid "Mesh to MetaHuman service invoked with invalid arguments"
+msgstr "Mesh to MetaHuman service invoked with invalid arguments"
+
+#. Key:	ARSServerError
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:853
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:853
+msgctxt "MetaHumanIdentityToolkit,ARSServerError"
+msgid "Error while executing the Mesh to MetaHuman service"
+msgstr "Error while executing the Mesh to MetaHuman service"
+
+#. Key:	ARSSuccess
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:828
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:828
+msgctxt "MetaHumanIdentityToolkit,ARSSuccess"
+msgid "Your MetaHuman is now available in Creator and Bridge, in the My MetaHumans section"
+msgstr "Your MetaHuman is now available in Creator and Bridge, in the My MetaHumans section"
+
+#. Key:	ARSSuccessTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:827
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:827
+msgctxt "MetaHumanIdentityToolkit,ARSSuccessTitle"
+msgid "Mesh to MetaHuman"
+msgstr "Mesh to MetaHuman"
+
+#. Key:	ARSUnauthorized
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:844
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:844
+msgctxt "MetaHumanIdentityToolkit,ARSUnauthorized"
+msgid "You are not authorized to use the Mesh to MetaHuman service"
+msgstr "You are not authorized to use the Mesh to MetaHuman service"
+
+#. Key:	ARSUnknownErorr
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:856
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:856
+msgctxt "MetaHumanIdentityToolkit,ARSUnknownErorr"
+msgid "Unknown error while executing the Mesh to MetaHuman service"
+msgstr "Unknown error while executing the Mesh to MetaHuman service"
+
+#. Key:	AutoRigProgressComplete
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:892
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:892
+msgctxt "MetaHumanIdentityToolkit,AutoRigProgressComplete"
+msgid "Mesh to MetaHuman complete!"
+msgstr "Mesh to MetaHuman complete!"
+
+#. Key:	AutoRigProgressFailed
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:896
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:896
+msgctxt "MetaHumanIdentityToolkit,AutoRigProgressFailed"
+msgid "Mesh to MetaHuman failed!"
+msgstr "Mesh to MetaHuman failed!"
+
+#. Key:	AutoRigProgressText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:808
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:808
+msgctxt "MetaHumanIdentityToolkit,AutoRigProgressText"
+msgid "Waiting for MetaHuman backend..."
+msgstr "Waiting for MetaHuman backend..."
+
+#. Key:	BaseToolkitName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:137
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:137
+msgctxt "MetaHumanIdentityToolkit,BaseToolkitName"
+msgid "MetaHuman Identity Asset Editor Toolkit"
+msgstr "MetaHuman Identity Asset Editor Toolkit"
+
+#. Key:	CantSelectMeshMessage
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1157
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1157
+msgctxt "MetaHumanIdentityToolkit,CantSelectMeshMessage"
+msgid "This MetaHuman Identity already has a Face part. Remove it first to use this functionality"
+msgstr "This MetaHuman Identity already has a Face part. Remove it first to use this functionality"
+
+#. Key:	IdentityEditorSolveMenuLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:396
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:396
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorSolveMenuLabel"
+msgid "Solve"
+msgstr "Solve"
+
+#. Key:	IdentityEditorSolveMenuTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:397
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:397
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorSolveMenuTooltip"
+msgid "Tools for MetaHuman Identity Solve"
+msgstr "Tools for MetaHuman Identity Solve"
+
+#. Key:	IdentityEditorTrackMenuLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:390
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:390
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorTrackMenuLabel"
+msgid "Track"
+msgstr "Track"
+
+#. Key:	IdentityEditorTrackMenuTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:391
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:391
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorTrackMenuTooltip"
+msgid "Tools for Tracking"
+msgstr "Tools for Tracking"
+
+#. Key:	IdentitySolveError
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1224
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1224
+msgctxt "MetaHumanIdentityToolkit,IdentitySolveError"
+msgid "MetaHuman Identity Solve Error"
+msgstr "MetaHuman Identity Solve Error"
+
+#. Key:	IdentitySolveTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:734
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:734
+msgctxt "MetaHumanIdentityToolkit,IdentitySolveTransaction"
+msgid "MetaHuman Identity Solve"
+msgstr "MetaHuman Identity Solve"
+
+#. Key:	OutlinerTabName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:172
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:172
+msgctxt "MetaHumanIdentityToolkit,OutlinerTabName"
+msgid "Outliner"
+msgstr "Outliner"
+
+#. Key:	OutlinerTabTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:298
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:298
+msgctxt "MetaHumanIdentityToolkit,OutlinerTabTitle"
+msgid "Outliner"
+msgstr "Outliner"
+
+#. Key:	PartsIdTabName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:167
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:167
+msgctxt "MetaHumanIdentityToolkit,PartsIdTabName"
+msgid "Parts"
+msgstr "Parts"
+
+#. Key:	PartsTabTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:273
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:273
+msgctxt "MetaHumanIdentityToolkit,PartsTabTitle"
+msgid "Parts"
+msgstr "Parts"
+
+#. Key:	SolveMenuLocalSolveSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:364
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:364
+msgctxt "MetaHumanIdentityToolkit,SolveMenuLocalSolveSection"
+msgid "Local Solve"
+msgstr "Local Solve"
+
+#. Key:	ToolkitToolTipText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:142
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:142
+msgctxt "MetaHumanIdentityToolkit,ToolkitToolTipText"
+msgid "MetaHuman Identity Asset Editor"
+msgstr "MetaHuman Identity Asset Editor"
+
+#. Key:	TrackCurrentFrameLabelOverride
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:429
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:429
+msgctxt "MetaHumanIdentityToolkit,TrackCurrentFrameLabelOverride"
+msgid "Track Active Frame"
+msgstr "Track Active Frame"
+
+#. Key:	TrackCurrentTrasactionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:698
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:698
+msgctxt "MetaHumanIdentityToolkit,TrackCurrentTrasactionLabel"
+msgid "Track Promoted Frame"
+msgstr "Track Promoted Frame"
+
+#. Key:	TrackMenuTrackersSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:354
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:354
+msgctxt "MetaHumanIdentityToolkit,TrackMenuTrackersSection"
+msgid "Trackers"
+msgstr "Trackers"
+
+#. Key:	WorkspaceMenuCategory
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:162
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:162
+msgctxt "MetaHumanIdentityToolkit,WorkspaceMenuCategory"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman Identity"
+
+#. Key:	WorldCentricTabPrefix
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:147
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:147
+msgctxt "MetaHumanIdentityToolkit,WorldCentricTabPrefix"
+msgid "MetaHuman "
+msgstr "MetaHuman "
+
+#. Key:	CameraOptionsFOVLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:560
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:560
+msgctxt "MetaHumanIdentityViewportToolbar,CameraOptionsFOVLabel"
+msgid "Field Of View"
+msgstr "Field Of View"
+
+#. Key:	CurvesVisibilityLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:506
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:506
+msgctxt "MetaHumanIdentityViewportToolbar,CurvesVisibilityLabel"
+msgid "Curves"
+msgstr "Curves"
+
+#. Key:	CurvesVisibilityTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:507
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:507
+msgctxt "MetaHumanIdentityViewportToolbar,CurvesVisibilityTooltip"
+msgid "Toggle the curve visibility"
+msgstr "Toggle the curve visibility"
+
+#. Key:	EV100ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:170
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:170
+msgctxt "MetaHumanIdentityViewportToolbar,EV100ToolTip"
+msgid "Sets the exposure value of the camera using the specified EV100. Exposure = 1 / (1.2 * 2^EV100)"
+msgstr "Sets the exposure value of the camera using the specified EV100. Exposure = 1 / (1.2 * 2^EV100)"
+
+#. Key:	ExposureHeader
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:198
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:198
+msgctxt "MetaHumanIdentityViewportToolbar,ExposureHeader"
+msgid "Exposure"
+msgstr "Exposure"
+
+#. Key:	FixedEV100
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:199
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:199
+msgctxt "MetaHumanIdentityViewportToolbar,FixedEV100"
+msgid "EV100"
+msgstr "EV100"
+
+#. Key:	GeometrySectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:472
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:472
+msgctxt "MetaHumanIdentityViewportToolbar,GeometrySectionLabel"
+msgid "Geometry"
+msgstr "Geometry"
+
+#. Key:	MixOptionsViewA
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:305
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:305
+msgctxt "MetaHumanIdentityViewportToolbar,MixOptionsViewA"
+msgid "A"
+msgstr "A"
+
+#. Key:	MixOptionsViewB
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:409
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:409
+msgctxt "MetaHumanIdentityViewportToolbar,MixOptionsViewB"
+msgid "B"
+msgstr "B"
+
+#. Key:	MultiScreenLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:444
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:444
+msgctxt "MetaHumanIdentityViewportToolbar,MultiScreenLabel"
+msgid "Dual"
+msgstr "Dual"
+
+#. Key:	MultiScreenTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:445
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:445
+msgctxt "MetaHumanIdentityViewportToolbar,MultiScreenTooltip"
+msgid "Display View A and B in dual mode"
+msgstr "Display View A and B in dual mode"
+
+#. Key:	NeutralPoseMeshLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:474
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:474
+msgctxt "MetaHumanIdentityViewportToolbar,NeutralPoseMeshLabel"
+msgid "Neutral Pose"
+msgstr "Neutral Pose"
+
+#. Key:	NeutralPoseMeshTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:475
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:475
+msgctxt "MetaHumanIdentityViewportToolbar,NeutralPoseMeshTooltip"
+msgid "Toggle the visibility of the Neutral Pose Mesh"
+msgstr "Toggle the visibility of the Neutral Pose Mesh"
+
+#. Key:	PointVisibilityLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:515
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:515
+msgctxt "MetaHumanIdentityViewportToolbar,PointVisibilityLabel"
+msgid "Control Vertices"
+msgstr "Control Vertices"
+
+#. Key:	PointVisibilityTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:516
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:516
+msgctxt "MetaHumanIdentityViewportToolbar,PointVisibilityTooltip"
+msgid "Toggle the visibility of control vertices"
+msgstr "Toggle the visibility of control vertices"
+
+#. Key:	SingleScreenLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:435
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:435
+msgctxt "MetaHumanIdentityViewportToolbar,SingleScreenLabel"
+msgid "Single"
+msgstr "Single"
+
+#. Key:	SingleScreenTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:436
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:436
+msgctxt "MetaHumanIdentityViewportToolbar,SingleScreenTooltip"
+msgid "Display Single View"
+msgstr "Display Single View"
+
+#. Key:	SplitScreenLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:453
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:453
+msgctxt "MetaHumanIdentityViewportToolbar,SplitScreenLabel"
+msgid "Wipe"
+msgstr "Wipe"
+
+#. Key:	SplitScreenTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:454
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:454
+msgctxt "MetaHumanIdentityViewportToolbar,SplitScreenTooltip"
+msgid "Display view A and B with a wiper"
+msgstr "Display view A and B with a wiper"
+
+#. Key:	TemplateMeshLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:483
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:483
+msgctxt "MetaHumanIdentityViewportToolbar,TemplateMeshLabel"
+msgid "Template Mesh"
+msgstr "Template Mesh"
+
+#. Key:	TemplateMeshTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:484
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:484
+msgctxt "MetaHumanIdentityViewportToolbar,TemplateMeshTooltip"
+msgid "Toggle the Template Mesh Visibility"
+msgstr "Toggle the Template Mesh Visibility"
+
+#. Key:	ViewAMenuToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:304
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:304
+msgctxt "MetaHumanIdentityViewportToolbar,ViewAMenuToolTip"
+msgid "View A Menu"
+msgstr "View A Menu"
+
+#. Key:	ViewBMenuToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:408
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:408
+msgctxt "MetaHumanIdentityViewportToolbar,ViewBMenuToolTip"
+msgid "View B Menu"
+msgstr "View B Menu"
+
+#. Key:	ViewMenuAToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:292
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:292
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuAToolTip"
+msgid "View Menu A"
+msgstr "View Menu A"
+
+#. Key:	ViewMenuB
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:399
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:399
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuB"
+msgid "View B"
+msgstr "View B"
+
+#. Key:	ViewMenuBToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:394
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:394
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuBToolTip"
+msgid "View B Menu"
+msgstr "View B Menu"
+
+#. Key:	ViewMenuCameraSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:557
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:557
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuCameraSectionLabel"
+msgid "Camera"
+msgstr "Camera"
+
+#. Key:	ViewMenuTitle_Default
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:59
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:59
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuTitle_Default"
+msgid "View"
+msgstr "View"
+
+#. Key:	ViewMixSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:433
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:433
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMixSectionLabel"
+msgid "View Mix"
+msgstr "View Mix"
+
+#. Key:	ViewModeHeader
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:184
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:184
+msgctxt "MetaHumanIdentityViewportToolbar,ViewModeHeader"
+msgid "View Mode"
+msgstr "View Mode"
+
+#. Key:	CurveColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:82
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:82
+msgctxt "MetaHumanMarkersOutliner,CurveColumn_Active"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	CurveColumn_NameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:73
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:73
+msgctxt "MetaHumanMarkersOutliner,CurveColumn_NameLabel"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	CurveColumn_Visible
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:77
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:77
+msgctxt "MetaHumanMarkersOutliner,CurveColumn_Visible"
+msgid "Visible"
+msgstr "Visible"
+
+#. Key:	FrameColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:44
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:44
+msgctxt "MetaHumanMarkersOutliner,FrameColumn_Active"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	FrameColumn_NameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:39
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:39
+msgctxt "MetaHumanMarkersOutliner,FrameColumn_NameLabel"
+msgid "Frames"
+msgstr "Frames"
+
+#. Key:	GroupColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:64
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:64
+msgctxt "MetaHumanMarkersOutliner,GroupColumn_Active"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	GroupColumn_NameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:54
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:54
+msgctxt "MetaHumanMarkersOutliner,GroupColumn_NameLabel"
+msgid "Group"
+msgstr "Group"
+
+#. Key:	GroupColumn_Visible
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:59
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:59
+msgctxt "MetaHumanMarkersOutliner,GroupColumn_Visible"
+msgid "Visible"
+msgstr "Visible"
+
+#. Key:	LandmarkColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:96
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:96
+msgctxt "MetaHumanMarkersOutliner,LandmarkColumn_Active"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	LandmarkColumn_CurveNameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:92
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:92
+msgctxt "MetaHumanMarkersOutliner,LandmarkColumn_CurveNameLabel"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	ActivateMarkersForAll
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForAll"
+msgid "Activate Markers (All Frames)"
+msgstr "Activate Markers (All Frames)"
+
+#. Key:	ActivateMarkersForAll_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForAll_ToolTip"
+msgid "Activate the display of markers for all promoted frames"
+msgstr "Activate the display of markers for all promoted frames"
+
+#. Key:	ActivateMarkersForCurrent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForCurrent"
+msgid "Activate Markers (Current Frame)"
+msgstr "Activate Markers (Current Frame)"
+
+#. Key:	ActivateMarkersForCurrent_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForCurrent_ToolTip"
+msgid "Activate the display of markers for the selected frame"
+msgstr "Activate the display of markers for the selected frame"
+
+#. Key:	DemoteFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,DemoteFrame"
+msgid "Demote Frame"
+msgstr "Demote Frame"
+
+#. Key:	DemoteFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,DemoteFrame_ToolTip"
+msgid "Demote a Frame"
+msgstr "Demote a Frame"
+
+#. Key:	IdentitySolve
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,IdentitySolve"
+msgid "MetaHuman Identity Solve"
+msgstr "MetaHuman Identity Solve"
+
+#. Key:	IdentitySolve_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,IdentitySolve_ToolTip"
+msgid "MetaHuman Identity Solve"
+msgstr "MetaHuman Identity Solve"
+
+#. Key:	PromoteFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:32
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:32
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,PromoteFrame"
+msgid "Promote Frame"
+msgstr "Promote Frame"
+
+#. Key:	PromoteFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:32
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:32
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,PromoteFrame_ToolTip"
+msgid "Promote a Frame"
+msgstr "Promote a Frame"
+
+#. Key:	RigidFitAll
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitAll"
+msgid "Rigid Fit (All Frames)"
+msgstr "Rigid Fit (All Frames)"
+
+#. Key:	RigidFitAll_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitAll_ToolTip"
+msgid "Rigid fit the head in all frames"
+msgstr "Rigid fit the head in all frames"
+
+#. Key:	RigidFitCurrent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:25
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:25
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitCurrent"
+msgid "Rigid Fit (Current Frame)"
+msgstr "Rigid Fit (Current Frame)"
+
+#. Key:	RigidFitCurrent_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:25
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:25
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitCurrent_ToolTip"
+msgid "Rigid fit the head of the current frame"
+msgstr "Rigid fit the head of the current frame"
+
+#. Key:	SubmitToAutorig
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,SubmitToAutorig"
+msgid "Mesh to MetaHuman"
+msgstr "Mesh to MetaHuman"
+
+#. Key:	SubmitToAutorig_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,SubmitToAutorig_ToolTip"
+msgid "Submit the template mesh for MetaHuman conversion, will become available in MetaHuman Creator and Bridge"
+msgstr "Submit the template mesh for MetaHuman conversion, will become available in MetaHuman Creator and Bridge"
+
+#. Key:	ToggleGroupActiveForCurrentFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupActiveForCurrentFrame"
+msgid "Toggle Group Active"
+msgstr "Toggle Group Active"
+
+#. Key:	ToggleGroupActiveForCurrentFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupActiveForCurrentFrame_ToolTip"
+msgid "Toggle Active For Current Frame"
+msgstr "Toggle Active For Current Frame"
+
+#. Key:	ToggleGroupVisibilityForCurrentFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:35
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:35
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupVisibilityForCurrentFrame"
+msgid "Toggle Group Visibility"
+msgstr "Toggle Group Visibility"
+
+#. Key:	ToggleGroupVisibilityForCurrentFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:35
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:35
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupVisibilityForCurrentFrame_ToolTip"
+msgid "Toggle Visibility For Current Frame"
+msgstr "Toggle Visibility For Current Frame"
+
+#. Key:	ToggleViewA
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewA"
+msgid "A"
+msgstr "A"
+
+#. Key:	ToggleViewA_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewA_ToolTip"
+msgid "Toggle View A"
+msgstr "Toggle View A"
+
+#. Key:	ToggleViewB
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewB"
+msgid "B"
+msgstr "B"
+
+#. Key:	ToggleViewB_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewB_ToolTip"
+msgid "Toggle View B"
+msgstr "Toggle View B"
+
+#. Key:	TrackCurrent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,TrackCurrent"
+msgid "Track Markers (Current Frame)"
+msgstr "Track Markers (Current Frame)"
+
+#. Key:	TrackCurrent_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,TrackCurrent_ToolTip"
+msgid "Track the selected frame"
+msgstr "Track the selected frame"
+
+#. Key:	ViewToggle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:28
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:28
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ViewToggle"
+msgid "<->"
+msgstr "<->"
+
+#. Key:	ViewToggle_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:28
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:28
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ViewToggle_ToolTip"
+msgid "Swap the contents of A and B views"
+msgstr "Swap the contents of A and B views"
+

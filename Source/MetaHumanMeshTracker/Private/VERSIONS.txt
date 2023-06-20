@@ -1,0 +1,5 @@
+nonlinearsolver and rig-calibration repos copied on 31 Mar 22. Git tags:
+
+nonlinearsolver: tags/v0.4.2
+rig-calibration: tags/0.5.5
+

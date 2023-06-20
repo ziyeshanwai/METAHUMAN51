@@ -1,0 +1,1716 @@
+﻿# MetaHuman Chinese translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: MetaHuman\n"
+"POT-Creation-Date: 2022-05-31 12:48\n"
+"PO-Revision-Date: 2022-05-31 12:48\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	FMetaHumanIdentityModule
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:10
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:10
+msgctxt "Contexts,FMetaHumanIdentityModule"
+msgid "MetaHuman Identity Asset Editor"
+msgstr "MetaHuman本体资产编辑器"
+
+#. Key:	LoadTrackersNotification
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAsset.cpp:44
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAsset.cpp:44
+msgctxt "FaceContourTracker,LoadTrackersNotification"
+msgid "Loading trackers..."
+msgstr "正在载入追踪器…"
+
+#. Key:	MHEula_Title
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/AutoRigService.cpp:343
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/AutoRigService.cpp:343
+msgctxt "FAutoRigServiceModule,MHEula_Title"
+msgid "End User License Agreement"
+msgstr "终端用户许可协议"
+
+#. Key:	ALabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:453
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:453
+msgctxt "MetaHuman,ALabel"
+msgid "A"
+msgstr "A"
+
+#. Key:	BLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:462
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanImageViewer/Private/SABImage.cpp:462
+msgctxt "MetaHuman,BLabel"
+msgid "B"
+msgstr "B"
+
+#. Key:	FootageCaptureDataAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:41
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:41
+msgctxt "MetaHuman,FootageCaptureDataAssetName"
+msgid "Capture Data (Footage)"
+msgstr "捕获数据（镜头）"
+
+#. Key:	MeshCaptureDataAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:12
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_CaptureData.cpp:12
+msgctxt "MetaHuman,MeshCaptureDataAssetName"
+msgid "Capture Data (Mesh)"
+msgstr "捕获数据（网格体）"
+
+#. Key:	MetaHumanAssetCategoryLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:114
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:114
+msgctxt "MetaHuman,MetaHumanAssetCategoryLabel"
+msgid "MetaHuman"
+msgstr "MetaHuman"
+
+#. Key:	MetaHumanFaceContourTrackerAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAssetActions.cpp:18
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanFaceContourTracker/Private/MetaHumanFaceContourTrackerAssetActions.cpp:18
+msgctxt "MetaHuman,MetaHumanFaceContourTrackerAssetName"
+msgid "Face Contour Tracker"
+msgstr "面部轮廓追踪器"
+
+#. Key:	MetaHumanIdentityAssetName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_MetaHumanIdentity.cpp:10
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/AssetTypeActions/AssetTypeActions_MetaHumanIdentity.cpp:10
+msgctxt "MetaHuman,MetaHumanIdentityAssetName"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman本体"
+
+#. Key:	MHEula_Accept
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:145
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:145
+msgctxt "MetaHuman,MHEula_Accept"
+msgid "Accept"
+msgstr "接受"
+
+#. Key:	MHEula_AcceptCheckbox
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:130
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/AutoRigService/Private/MetaHumanEulaDialog.cpp:130
+msgctxt "MetaHuman,MHEula_AcceptCheckbox"
+msgid "I have read and agree to the terms and conditions"
+msgstr "我已阅读并同意这些条款和条件"
+
+#. Key:	SettingsDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+msgctxt "MetaHuman,SettingsDescription"
+msgid "Configure MetaHuman settings"
+msgstr "配置MetaHuman设置"
+
+#. Key:	SettingsName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanCore/Private/MetaHumanCoreModule.cpp:108
+msgctxt "MetaHuman,SettingsName"
+msgid "MetaHuman"
+msgstr "MetaHuman"
+
+#. Key:	MoveMultipleIdentityComponents
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/ConformingViewportClient.cpp:133
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/ConformingViewportClient.cpp:133
+msgctxt "MetaHumanIdentity,MoveMultipleIdentityComponents"
+msgid "Modify Multiple"
+msgstr "修改多个"
+
+#. Key:	AddLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:22
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:22
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddLabel"
+msgid "Add"
+msgstr "添加"
+
+#. Key:	AddNeutralDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:103
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:103
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddNeutralDescription"
+msgid "Add a pose with a neutral expression of the MetaHuman Identity"
+msgstr "添加一个具有中性表情的MetaHuman本体姿势"
+
+#. Key:	AddNeutralLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:102
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:102
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddNeutralLabel"
+msgid "Add Neutral"
+msgstr "添加中性"
+
+#. Key:	AddNewPartMenuSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:32
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:32
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddNewPartMenuSection"
+msgid "Create"
+msgstr "创建"
+
+#. Key:	AddNewPartSubmenuSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:54
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:54
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddNewPartSubmenuSection"
+msgid "Create Part"
+msgstr "创建部位"
+
+#. Key:	AddPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:34
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:34
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPart"
+msgid "Add Part"
+msgstr "添加部位"
+
+#. Key:	AddPartTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:35
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:35
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPartTooltip"
+msgid "Add a new part to this MetaHuman Identity"
+msgstr "为此MetaHuman本体添加一个新部位"
+
+#. Key:	AddPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:38
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:38
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPose"
+msgid "Add Pose"
+msgstr "添加姿势"
+
+#. Key:	AddPoseTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:39
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:39
+msgctxt "MetaHumanIdentityComponentsClassCombo,AddPoseTooltip"
+msgid "Add a new pose for this MetaHuman Identity"
+msgstr "为此MetaHuman本体添加一个新姿势"
+
+#. Key:	CreateNewPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:99
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:99
+msgctxt "MetaHumanIdentityComponentsClassCombo,CreateNewPose"
+msgid "Create Pose"
+msgstr "创建姿势"
+
+#. Key:	CreateNewPoseGroup
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:125
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsClassCombo.cpp:125
+msgctxt "MetaHumanIdentityComponentsClassCombo,CreateNewPoseGroup"
+msgid "CreatePoseGroup"
+msgstr "创建姿势组"
+
+#. Key:	CrvBrowMiddleL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:601
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:601
+msgctxt "MetaHumanIdentityOutliner,CrvBrowMiddleL"
+msgid "Brow Middle (L)"
+msgstr "眉毛中间（左）"
+
+#. Key:	CrvBrowMiddleR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:602
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:602
+msgctxt "MetaHumanIdentityOutliner,CrvBrowMiddleR"
+msgid "Brow Middle (R)"
+msgstr "眉毛中间（右）"
+
+#. Key:	CrvEarHelixInnerL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:595
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:595
+msgctxt "MetaHumanIdentityOutliner,CrvEarHelixInnerL"
+msgid "Ear Helix Inner (L)"
+msgstr "耳廓内侧（左）"
+
+#. Key:	CrvEarHelixInnerR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:596
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:596
+msgctxt "MetaHumanIdentityOutliner,CrvEarHelixInnerR"
+msgid "Ear Helix Inner (R)"
+msgstr "耳廓内侧（右）"
+
+#. Key:	CrvEarHelixOuterL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:593
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:593
+msgctxt "MetaHumanIdentityOutliner,CrvEarHelixOuterL"
+msgid "Ear Helix Outer (L)"
+msgstr "耳廓外侧（左）"
+
+#. Key:	CrvEarHelixOuterR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:594
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:594
+msgctxt "MetaHumanIdentityOutliner,CrvEarHelixOuterR"
+msgid "Ear Helix Outer (R)"
+msgstr "耳廓外侧（右）"
+
+#. Key:	CrvEyeCreaseL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:604
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:604
+msgctxt "MetaHumanIdentityOutliner,CrvEyeCreaseL"
+msgid "Eye Crease (L)"
+msgstr "眼部褶痕（左）"
+
+#. Key:	CrvEyeCreaseR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:605
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:605
+msgctxt "MetaHumanIdentityOutliner,CrvEyeCreaseR"
+msgid "Eye Crease (R)"
+msgstr "眼部褶痕（右）"
+
+#. Key:	CrvEyelibUpperL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:608
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:608
+msgctxt "MetaHumanIdentityOutliner,CrvEyelibUpperL"
+msgid "Eyelid Upper (L)"
+msgstr "上眼睑（左）"
+
+#. Key:	CrvEyelibUpperR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:609
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:609
+msgctxt "MetaHumanIdentityOutliner,CrvEyelibUpperR"
+msgid "Eyelid Upper (R)"
+msgstr "上眼睑（右）"
+
+#. Key:	CrvEyelidLowerL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:606
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:606
+msgctxt "MetaHumanIdentityOutliner,CrvEyelidLowerL"
+msgid "Eyelid Lower (L)"
+msgstr "下眼睑（左）"
+
+#. Key:	CrvEyelidLowerR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:607
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:607
+msgctxt "MetaHumanIdentityOutliner,CrvEyelidLowerR"
+msgid "Eyelid Lower (R)"
+msgstr "下眼睑（右）"
+
+#. Key:	CrvEyelidOuterLowerL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:612
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:612
+msgctxt "MetaHumanIdentityOutliner,CrvEyelidOuterLowerL"
+msgid "Eyelid Outer Lower (L)"
+msgstr "下眼睑外侧（左）"
+
+#. Key:	CrvEyelidOuterLowerR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:613
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:613
+msgctxt "MetaHumanIdentityOutliner,CrvEyelidOuterLowerR"
+msgid "Eyelid Outer Lower (R)"
+msgstr "下眼睑外侧（右）"
+
+#. Key:	CrvEyelidOuterUpperL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:614
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:614
+msgctxt "MetaHumanIdentityOutliner,CrvEyelidOuterUpperL"
+msgid "Eyelid Outer Upper (L)"
+msgstr "上眼睑外侧（左）"
+
+#. Key:	CrvEyelidOuterUpperR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:615
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:615
+msgctxt "MetaHumanIdentityOutliner,CrvEyelidOuterUpperR"
+msgid "Eyelid Outer Upper (R)"
+msgstr "上眼睑外侧（右）"
+
+#. Key:	CrvLipInnerLowerL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:583
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:583
+msgctxt "MetaHumanIdentityOutliner,CrvLipInnerLowerL"
+msgid "Lip Inner Lower (L)"
+msgstr "下嘴唇内侧（左）"
+
+#. Key:	CrvLipInnerLowerR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:584
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:584
+msgctxt "MetaHumanIdentityOutliner,CrvLipInnerLowerR"
+msgid "Lip Inner Lower (R)"
+msgstr "下嘴唇内侧（右）"
+
+#. Key:	CrvLipInnerUpperL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:585
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:585
+msgctxt "MetaHumanIdentityOutliner,CrvLipInnerUpperL"
+msgid "Lip Inner Upper (L)"
+msgstr "上嘴唇内侧（左）"
+
+#. Key:	CrvLipInnerUpperR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:586
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:586
+msgctxt "MetaHumanIdentityOutliner,CrvLipInnerUpperR"
+msgid "Lip Inner Upper (R)"
+msgstr "上嘴唇内侧（右）"
+
+#. Key:	CrvLipOuterLowerL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:581
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:581
+msgctxt "MetaHumanIdentityOutliner,CrvLipOuterLowerL"
+msgid "Lip Outer Lower (L)"
+msgstr "下嘴唇外侧（左）"
+
+#. Key:	CrvLipOuterLowerR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:582
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:582
+msgctxt "MetaHumanIdentityOutliner,CrvLipOuterLowerR"
+msgid "Lip Outer Lower (R)"
+msgstr "下嘴唇外侧（右）"
+
+#. Key:	CrvLipOuterUpperL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:579
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:579
+msgctxt "MetaHumanIdentityOutliner,CrvLipOuterUpperL"
+msgid "Lip Outer Upper (L)"
+msgstr "上嘴唇外侧（左）"
+
+#. Key:	CrvLipOuterUpperR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:580
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:580
+msgctxt "MetaHumanIdentityOutliner,CrvLipOuterUpperR"
+msgid "Lip Outer Upper (R)"
+msgstr "上嘴唇外侧（右）"
+
+#. Key:	CrvLipPhiltrumL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:587
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:587
+msgctxt "MetaHumanIdentityOutliner,CrvLipPhiltrumL"
+msgid "Lip Philtrum (L)"
+msgstr "人中（左）"
+
+#. Key:	CrvLipPhiltrumR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:588
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:588
+msgctxt "MetaHumanIdentityOutliner,CrvLipPhiltrumR"
+msgid "Lip Philtrum (R)"
+msgstr "人中（右）"
+
+#. Key:	CrvMentolabialFoldC
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:603
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:603
+msgctxt "MetaHumanIdentityOutliner,CrvMentolabialFoldC"
+msgid "Mentolabial Fold (C)"
+msgstr "颏唇沟（中）"
+
+#. Key:	CrvNasolabialL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:589
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:589
+msgctxt "MetaHumanIdentityOutliner,CrvNasolabialL"
+msgid "Nasolabial (L)"
+msgstr "鼻唇沟（左）"
+
+#. Key:	CrvNasolabialR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:590
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:590
+msgctxt "MetaHumanIdentityOutliner,CrvNasolabialR"
+msgid "Nasolabial (R)"
+msgstr "鼻唇沟（右）"
+
+#. Key:	CrvNostrilL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:591
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:591
+msgctxt "MetaHumanIdentityOutliner,CrvNostrilL"
+msgid "Nostril (L)"
+msgstr "鼻孔（左）"
+
+#. Key:	CrvNostrilR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:592
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:592
+msgctxt "MetaHumanIdentityOutliner,CrvNostrilR"
+msgid "Nostril (R)"
+msgstr "鼻孔（右）"
+
+#. Key:	CrvPlicaSmilunarisL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:610
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:610
+msgctxt "MetaHumanIdentityOutliner,CrvPlicaSmilunarisL"
+msgid "Plica Semilunaris (L)"
+msgstr "半月皱襞（左）"
+
+#. Key:	CrvPlicaSmilunarisR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:611
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:611
+msgctxt "MetaHumanIdentityOutliner,CrvPlicaSmilunarisR"
+msgid "Plica Semilunaris (R)"
+msgstr "半月皱襞（右）"
+
+#. Key:	CurveActiveChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:196
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:196
+msgctxt "MetaHumanIdentityOutliner,CurveActiveChangedTransaction"
+msgid "Edit Curve Is Active"
+msgstr "编辑曲线已激活"
+
+#. Key:	CurveVisibilityChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:88
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:88
+msgctxt "MetaHumanIdentityOutliner,CurveVisibilityChangedTransaction"
+msgid "Edit Curve Is Visible"
+msgstr "编辑曲线可见"
+
+#. Key:	EarCentralLowerL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:597
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:597
+msgctxt "MetaHumanIdentityOutliner,EarCentralLowerL"
+msgid "Ear Central Lower (L)"
+msgstr "耳朵中下部（左）"
+
+#. Key:	EarCentralLowerR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:598
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:598
+msgctxt "MetaHumanIdentityOutliner,EarCentralLowerR"
+msgid "Ear Central Lower (R)"
+msgstr "耳朵中下部（右）"
+
+#. Key:	EarCentralUpperL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:599
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:599
+msgctxt "MetaHumanIdentityOutliner,EarCentralUpperL"
+msgid "Ear Central Upper (L)"
+msgstr "耳朵中上部（左）"
+
+#. Key:	EarCentralUpperR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:600
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:600
+msgctxt "MetaHumanIdentityOutliner,EarCentralUpperR"
+msgid "Ear Central Upper (R)"
+msgstr "耳朵中上部（右）"
+
+#. Key:	FrameActiveChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:220
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:220
+msgctxt "MetaHumanIdentityOutliner,FrameActiveChangedTransaction"
+msgid "Edit PromotedFrame Is Active"
+msgstr "编辑提升帧已激活"
+
+#. Key:	FrameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:60
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:60
+msgctxt "MetaHumanIdentityOutliner,FrameLabel"
+msgid "Frame {0}"
+msgstr "帧{0}"
+
+#. Key:	FrameVisibilityChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:113
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:113
+msgctxt "MetaHumanIdentityOutliner,FrameVisibilityChangedTransaction"
+msgid "Edit PromotedFrame Is Visible"
+msgstr "编辑提升帧可见"
+
+#. Key:	GroupActiveChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:185
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:185
+msgctxt "MetaHumanIdentityOutliner,GroupActiveChangedTransaction"
+msgid "Edit Group Is Active"
+msgstr "编辑组已激活"
+
+#. Key:	GroupVisibilityChangedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:77
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:77
+msgctxt "MetaHumanIdentityOutliner,GroupVisibilityChangedTransaction"
+msgid "Edit Group Is Visible"
+msgstr "编辑组可见"
+
+#. Key:	GrpBrowL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:618
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:618
+msgctxt "MetaHumanIdentityOutliner,GrpBrowL"
+msgid "Brow (L)"
+msgstr "眉毛（左）"
+
+#. Key:	GrpBrowR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:619
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:619
+msgctxt "MetaHumanIdentityOutliner,GrpBrowR"
+msgid "Brow (R)"
+msgstr "眉毛（右）"
+
+#. Key:	GrpEarL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:626
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:626
+msgctxt "MetaHumanIdentityOutliner,GrpEarL"
+msgid "Ear (L)"
+msgstr "耳朵（左）"
+
+#. Key:	GrpEarR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:627
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:627
+msgctxt "MetaHumanIdentityOutliner,GrpEarR"
+msgid "Ear (R)"
+msgstr "耳朵（右）"
+
+#. Key:	GrpEyeL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:620
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:620
+msgctxt "MetaHumanIdentityOutliner,GrpEyeL"
+msgid "Eye (L)"
+msgstr "眼部（左）"
+
+#. Key:	GrpEyeR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:621
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:621
+msgctxt "MetaHumanIdentityOutliner,GrpEyeR"
+msgid "Eye (R)"
+msgstr "眼部（右）"
+
+#. Key:	GrpLipLower
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:623
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:623
+msgctxt "MetaHumanIdentityOutliner,GrpLipLower"
+msgid "Lip Lower"
+msgstr "下嘴唇"
+
+#. Key:	GrpLipUpper
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:622
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:622
+msgctxt "MetaHumanIdentityOutliner,GrpLipUpper"
+msgid "Lip Upper"
+msgstr "上嘴唇"
+
+#. Key:	GrpNoseL
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:624
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:624
+msgctxt "MetaHumanIdentityOutliner,GrpNoseL"
+msgid "Nose (L)"
+msgstr "鼻子（左）"
+
+#. Key:	GrpNoseR
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:625
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:625
+msgctxt "MetaHumanIdentityOutliner,GrpNoseR"
+msgid "Nose (R)"
+msgstr "鼻子（右）"
+
+#. Key:	GrpOther
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:678
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:678
+msgctxt "MetaHumanIdentityOutliner,GrpOther"
+msgid "Other"
+msgstr "其他"
+
+#. Key:	InvalidNodeName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:63
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:63
+msgctxt "MetaHumanIdentityOutliner,InvalidNodeName"
+msgid "<Invalid Node>"
+msgstr "<无效节点>"
+
+#. Key:	OutlineColumnLabel_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:519
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:519
+msgctxt "MetaHumanIdentityOutliner,OutlineColumnLabel_Active"
+msgid "Active"
+msgstr "激活"
+
+#. Key:	OutlineColumnLabel_Frame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:511
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:511
+msgctxt "MetaHumanIdentityOutliner,OutlineColumnLabel_Frame"
+msgid "Frame"
+msgstr "帧"
+
+#. Key:	OutlineColumnLabel_Visible
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:515
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityOutliner.cpp:515
+msgctxt "MetaHumanIdentityOutliner,OutlineColumnLabel_Visible"
+msgid "Visible"
+msgstr "可见"
+
+#. Key:	ApplyDNATransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:456
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:456
+msgctxt "MetaHumanIdentityParts,ApplyDNATransaction"
+msgid "Apply DNA to Rig"
+msgstr "将DNA应用至绑定"
+
+#. Key:	ConformProgressText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:373
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:373
+msgctxt "MetaHumanIdentityParts,ConformProgressText"
+msgid "Running MetaHuman Identity Solve..."
+msgstr "正在运行MetaHuman本体解算…"
+
+#. Key:	IdentityBodyComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:892
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:892
+msgctxt "MetaHumanIdentityParts,IdentityBodyComponentDescription"
+msgid "The Body of the MetaHuman Identity"
+msgstr "MetaHuman本体的身体"
+
+#. Key:	IdentityBodyComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:887
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:887
+msgctxt "MetaHumanIdentityParts,IdentityBodyComponentName"
+msgid "Body"
+msgstr "身体"
+
+#. Key:	IdentityFacePartDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:310
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:310
+msgctxt "MetaHumanIdentityParts,IdentityFacePartDescription"
+msgid "The Face of the MetaHuman Identity. This creates a new static mesh asset representing the Template Mesh"
+msgstr "MetaHuman本体的面部。这将创建代表模板网格体的新静态网格体资产"
+
+#. Key:	IdentityFacePartName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:305
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:305
+msgctxt "MetaHumanIdentityParts,IdentityFacePartName"
+msgid "Face"
+msgstr "面部"
+
+#. Key:	IdentityHandComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:916
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:916
+msgctxt "MetaHumanIdentityParts,IdentityHandComponentDescription"
+msgid "The Hands of the MetaHuman Identity"
+msgstr "MetaHuman本体的手部"
+
+#. Key:	IdentityHandComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:911
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:911
+msgctxt "MetaHumanIdentityParts,IdentityHandComponentName"
+msgid "Hands"
+msgstr "手部"
+
+#. Key:	IdentityOutfitComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:940
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:940
+msgctxt "MetaHumanIdentityParts,IdentityOutfitComponentDescription"
+msgid "The Outfit of the MetaHuman Identity"
+msgstr "MetaHuman本体的服装"
+
+#. Key:	IdentityOutfitComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:935
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:935
+msgctxt "MetaHumanIdentityParts,IdentityOutfitComponentName"
+msgid "Outfit"
+msgstr "服装"
+
+#. Key:	IdentityPropComponentDescription
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:963
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:963
+msgctxt "MetaHumanIdentityParts,IdentityPropComponentDescription"
+msgid "A Prop for the MetaHuman Identity"
+msgstr "MetaHuman本体的道具"
+
+#. Key:	IdentityPropComponentName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:958
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityParts.cpp:958
+msgctxt "MetaHumanIdentityParts,IdentityPropComponentName"
+msgid "Prop"
+msgstr "道具"
+
+#. Key:	AddFaceFromStaticMesh
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:399
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:399
+msgctxt "MetaHumanIdentityPartsEditor,AddFaceFromStaticMesh"
+msgid "Add MetaHuman Identity Face from Static Mesh"
+msgstr "从静态网格体添加MetaHuman本体面部"
+
+#. Key:	AddIdentityPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:661
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:661
+msgctxt "MetaHumanIdentityPartsEditor,AddIdentityPart"
+msgid "Add Part to the MetaHuman Identity"
+msgstr "为MetaHuman本体添加部位"
+
+#. Key:	AddIdentityPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:708
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:708
+msgctxt "MetaHumanIdentityPartsEditor,AddIdentityPose"
+msgid "Add Pose to the MetaHuman Identity"
+msgstr "为MetaHuman本体添加姿势"
+
+#. Key:	InvalidNodeName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:215
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:215
+msgctxt "MetaHumanIdentityPartsEditor,InvalidNodeName"
+msgid "<Invalid Node>"
+msgstr "<无效节点>"
+
+#. Key:	PartCommandsViewSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:900
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:900
+msgctxt "MetaHumanIdentityPartsEditor,PartCommandsViewSectionLabel"
+msgid "View Options"
+msgstr "视图选项"
+
+#. Key:	PartsCommandPartsSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:894
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:894
+msgctxt "MetaHumanIdentityPartsEditor,PartsCommandPartsSectionLabel"
+msgid "Part Options"
+msgstr "部位选项"
+
+#. Key:	RemoveIdentityPart
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:834
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:834
+msgctxt "MetaHumanIdentityPartsEditor,RemoveIdentityPart"
+msgid "Remove Part from MetaHuman Identity"
+msgstr "从MetaHuman本体删除部位"
+
+#. Key:	RemoveIdentityPose
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:858
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPartsEditor.cpp:858
+msgctxt "MetaHumanIdentityPartsEditor,RemoveIdentityPose"
+msgid "Remove Pose from MetaHuman Identity"
+msgstr "从MetaHuman本体删除姿势"
+
+#. Key:	BodyHeightTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:554
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:554
+msgctxt "MetaHumanIdentityPoseCustomization,BodyHeightTransaction"
+msgid "Change Body Height"
+msgstr "更改身高"
+
+#. Key:	BodyTypeTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:586
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:586
+msgctxt "MetaHumanIdentityPoseCustomization,BodyTypeTransaction"
+msgid "Change Body Type"
+msgstr "更改体型"
+
+#. Key:	CameraGroupLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:292
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:292
+msgctxt "MetaHumanIdentityPoseCustomization,CameraGroupLabel"
+msgid "Camera Transform"
+msgstr "摄像机变换"
+
+#. Key:	CameraLocationLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:300
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:300
+msgctxt "MetaHumanIdentityPoseCustomization,CameraLocationLabel"
+msgid "Location"
+msgstr "位置"
+
+#. Key:	CameraOrbitPivotLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:328
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:328
+msgctxt "MetaHumanIdentityPoseCustomization,CameraOrbitPivotLabel"
+msgid "Orbit Pivot"
+msgstr "轨道枢轴"
+
+#. Key:	CameraRotationLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:314
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:314
+msgctxt "MetaHumanIdentityPoseCustomization,CameraRotationLabel"
+msgid "Rotation"
+msgstr "旋转"
+
+#. Key:	Detail_BodyType
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:566
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:566
+msgctxt "MetaHumanIdentityPoseCustomization,Detail_BodyType"
+msgid "Body Type"
+msgstr "体型"
+
+#. Key:	Detail_Height
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:531
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:531
+msgctxt "MetaHumanIdentityPoseCustomization,Detail_Height"
+msgid "Height"
+msgstr "身高"
+
+#. Key:	FailToReadNumMarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:239
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:239
+msgctxt "MetaHumanIdentityPoseCustomization,FailToReadNumMarkersLabel"
+msgid "Error reading number of markers"
+msgstr "读取标记数量时出错"
+
+#. Key:	InvalidFieldText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:462
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:462
+msgctxt "MetaHumanIdentityPoseCustomization,InvalidFieldText"
+msgid "Invalid value for ETransformField"
+msgstr "ETransformField的值无效"
+
+#. Key:	InvalidMarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:173
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:173
+msgctxt "MetaHumanIdentityPoseCustomization,InvalidMarkersLabel"
+msgid "Invalid Markers Property"
+msgstr "标记属性无效"
+
+#. Key:	MarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:156
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:156
+msgctxt "MetaHumanIdentityPoseCustomization,MarkersLabel"
+msgid "Markers"
+msgstr "标记"
+
+#. Key:	MetaHumanIdentity
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:610
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:610
+msgctxt "MetaHumanIdentityPoseCustomization,MetaHumanIdentity"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman本体"
+
+#. Key:	NumMarkersLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:235
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:235
+msgctxt "MetaHumanIdentityPoseCustomization,NumMarkersLabel"
+msgid "{0} Markers"
+msgstr "{0}个标记"
+
+#. Key:	PromotedFrameIndex
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:264
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/Customizations/MetaHumanIdentityPoseCustomizations.cpp:264
+msgctxt "MetaHumanIdentityPoseCustomization,PromotedFrameIndex"
+msgid "Frame {0}"
+msgstr "帧{0}"
+
+#. Key:	ShapeAnnotationTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityPromotedFrames.cpp:25
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityPromotedFrames.cpp:25
+msgctxt "MetaHumanIdentityPromotedFrame,ShapeAnnotationTransaction"
+msgid "Modify Shape Annotation"
+msgstr "修改外形注解"
+
+#. Key:	AddPromotedFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:632
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:632
+msgctxt "MetaHumanIdentityPromotedFrames,AddPromotedFrame"
+msgid "Promote Frame"
+msgstr "提升帧"
+
+#. Key:	CameraMovedTransactionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:719
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:719
+msgctxt "MetaHumanIdentityPromotedFrames,CameraMovedTransactionLabel"
+msgid "Camera Moved"
+msgstr "摄像机已移动"
+
+#. Key:	EditFrameNameTransactionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:197
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:197
+msgctxt "MetaHumanIdentityPromotedFrames,EditFrameNameTransactionLabel"
+msgid "Edit Frame Name"
+msgstr "编辑帧名称"
+
+#. Key:	EditNavigationIsLockedTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:766
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:766
+msgctxt "MetaHumanIdentityPromotedFrames,EditNavigationIsLockedTransaction"
+msgid "Edit Is Navigation Locked"
+msgstr "已锁定编辑中的导航"
+
+#. Key:	EditTrackOnChangePromotedFrameTransasction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:743
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:743
+msgctxt "MetaHumanIdentityPromotedFrames,EditTrackOnChangePromotedFrameTransasction"
+msgid "Edit Track On Change"
+msgstr "更改时编辑追踪"
+
+#. Key:	LockNavigationLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:605
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:605
+msgctxt "MetaHumanIdentityPromotedFrames,LockNavigationLabel"
+msgid "Lock Camera"
+msgstr "锁定摄像机"
+
+#. Key:	LockNavigationTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:606
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:606
+msgctxt "MetaHumanIdentityPromotedFrames,LockNavigationTooltip"
+msgid "Locks the camera navigation for this frame and switches to a 2D navigation mode"
+msgstr "锁定此帧的摄像机导航，并切换到2D导航模式"
+
+#. Key:	PromotedFrameCommandsMenuSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:617
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:617
+msgctxt "MetaHumanIdentityPromotedFrames,PromotedFrameCommandsMenuSection"
+msgid "Commands"
+msgstr "命令"
+
+#. Key:	PromotedFrameTrackingModeMenuSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:584
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:584
+msgctxt "MetaHumanIdentityPromotedFrames,PromotedFrameTrackingModeMenuSection"
+msgid "Tracking Mode"
+msgstr "追踪模式"
+
+#. Key:	RemotePromotedFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:664
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:664
+msgctxt "MetaHumanIdentityPromotedFrames,RemotePromotedFrame"
+msgid "Remove Promoted Frame"
+msgstr "删除已提升的帧"
+
+#. Key:	TrackManuallyLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:595
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:595
+msgctxt "MetaHumanIdentityPromotedFrames,TrackManuallyLabel"
+msgid "Autotracking Off"
+msgstr "自动追踪已关闭"
+
+#. Key:	TrackManuallyTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:596
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:596
+msgctxt "MetaHumanIdentityPromotedFrames,TrackManuallyTooltip"
+msgid "Run the face tracker manually"
+msgstr "手动运行面部追踪器"
+
+#. Key:	TrackOnChangeLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:586
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:586
+msgctxt "MetaHumanIdentityPromotedFrames,TrackOnChangeLabel"
+msgid "Autotracking On"
+msgstr "自动追踪已开启"
+
+#. Key:	TrackOnChangeTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:587
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityPromotedFramesEditor.cpp:587
+msgctxt "MetaHumanIdentityPromotedFrames,TrackOnChangeTooltip"
+msgid "Run face tracker when the camera stops moving"
+msgstr "当摄像机停止移动时，运行面部追踪器"
+
+#. Key:	AddFaceFromMeshToolButtonLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:458
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:458
+msgctxt "MetaHumanIdentityToolkit,AddFaceFromMeshToolButtonLabel"
+msgid "Components from Mesh"
+msgstr "网格体中的组件"
+
+#. Key:	AddFaceFromMeshToolButtonTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:459
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:459
+msgctxt "MetaHumanIdentityToolkit,AddFaceFromMeshToolButtonTooltip"
+msgid "Create a Capture Data (Mesh) and a Face part from a Static Mesh with a Neutral Pose"
+msgstr "从具有中性姿势的静态网格体中创建捕捉数据（网格体）和面部"
+
+#. Key:	ARNoBody
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:879
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:879
+msgctxt "MetaHumanIdentityToolkit,ARNoBody"
+msgid "Mesh to MetaHuman requires the addition of a Body Part, and a Body Type Preset selection."
+msgstr "网格体转MetaHuman服务需要增加身体部位，并选择体型预设。"
+
+#. Key:	ARNoBodyType
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:869
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:869
+msgctxt "MetaHumanIdentityToolkit,ARNoBodyType"
+msgid "No Body Type Preset is selected in the Body Part. Please select a Body Type Preset to continue."
+msgstr "身体部位中未选择体型预设。请选择体型预设以继续。"
+
+#. Key:	ARSBusy
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:918
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:918
+msgctxt "MetaHumanIdentityToolkit,ARSBusy"
+msgid "Mesh to MetaHuman service is busy, try again later"
+msgstr "网格体转MetaHuman服务正忙，请稍后重试"
+
+#. Key:	ARSErrorTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:868
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:868
+msgctxt "MetaHumanIdentityToolkit,ARSErrorTitle"
+msgid "Mesh to MetaHuman Error"
+msgstr "网格体转MetaHuman服务出错"
+
+#. Key:	ARSEulaNotAccepted
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:924
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:924
+msgctxt "MetaHumanIdentityToolkit,ARSEulaNotAccepted"
+msgid "Mesh to MetaHuman EULA was not accepted"
+msgstr "未接受网格体转MetaHuman服务的终端用户许可协议"
+
+#. Key:	ARSInvalidArguments
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:927
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:927
+msgctxt "MetaHumanIdentityToolkit,ARSInvalidArguments"
+msgid "Mesh to MetaHuman service invoked with invalid arguments"
+msgstr "使用了无效参数调用网格体转MetaHuman服务"
+
+#. Key:	ARSServerError
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:930
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:930
+msgctxt "MetaHumanIdentityToolkit,ARSServerError"
+msgid "Error while executing the Mesh to MetaHuman service"
+msgstr "执行网格体转MetaHuman服务时出错"
+
+#. Key:	ARSSuccess
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:905
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:905
+msgctxt "MetaHumanIdentityToolkit,ARSSuccess"
+msgid "Your MetaHuman is now available in Creator and Bridge, in the My MetaHumans section"
+msgstr "现在可通过Creator和Bridge中的“我的MetaHuman”部分访问你的MetaHuman"
+
+#. Key:	ARSSuccessTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:904
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:904
+msgctxt "MetaHumanIdentityToolkit,ARSSuccessTitle"
+msgid "Mesh to MetaHuman"
+msgstr "网格体转MetaHuman"
+
+#. Key:	ARSUnauthorized
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:921
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:921
+msgctxt "MetaHumanIdentityToolkit,ARSUnauthorized"
+msgid "You are not authorized to use the Mesh to MetaHuman service"
+msgstr "你无权使用网格体转MetaHuman服务"
+
+#. Key:	ARSUnknownErorr
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:936
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:936
+msgctxt "MetaHumanIdentityToolkit,ARSUnknownErorr"
+msgid "Unknown error while executing the Mesh to MetaHuman service"
+msgstr "执行网格体转MetaHuman服务时出现未知错误"
+
+#. Key:	AutoRigProgressComplete
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:972
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:972
+msgctxt "MetaHumanIdentityToolkit,AutoRigProgressComplete"
+msgid "Mesh to MetaHuman complete!"
+msgstr "网格体转MetaHuman服务执行完毕！"
+
+#. Key:	AutoRigProgressFailed
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:976
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:976
+msgctxt "MetaHumanIdentityToolkit,AutoRigProgressFailed"
+msgid "Mesh to MetaHuman failed!"
+msgstr "网格体转MetaHuman服务执行失败！"
+
+#. Key:	AutoRigProgressText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:885
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:885
+msgctxt "MetaHumanIdentityToolkit,AutoRigProgressText"
+msgid "Waiting for MetaHuman backend..."
+msgstr "正在等待MetaHuman后端…"
+
+#. Key:	BaseToolkitName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:138
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:138
+msgctxt "MetaHumanIdentityToolkit,BaseToolkitName"
+msgid "MetaHuman Identity Asset Editor Toolkit"
+msgstr "MetaHuman本体资产编辑器工具包"
+
+#. Key:	CantSelectMeshMessage
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1244
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1244
+msgctxt "MetaHumanIdentityToolkit,CantSelectMeshMessage"
+msgid "This MetaHuman Identity already has a Face part. Remove it first to use this functionality"
+msgstr "该MetaHuman本体已具有面部。要使用此功能，请先删除它"
+
+#. Key:	IdentityEditorSolveMenuLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:423
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:423
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorSolveMenuLabel"
+msgid "Solve"
+msgstr "解算"
+
+#. Key:	IdentityEditorSolveMenuTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:424
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:424
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorSolveMenuTooltip"
+msgid "Tools for MetaHuman Identity Solve"
+msgstr "MetaHuman本体解算工具"
+
+#. Key:	IdentityEditorTrackMenuLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:417
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:417
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorTrackMenuLabel"
+msgid "Track"
+msgstr "追踪"
+
+#. Key:	IdentityEditorTrackMenuTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:418
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:418
+msgctxt "MetaHumanIdentityToolkit,IdentityEditorTrackMenuTooltip"
+msgid "Tools for Tracking"
+msgstr "追踪工具"
+
+#. Key:	IdentitySolveError
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1311
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:1311
+msgctxt "MetaHumanIdentityToolkit,IdentitySolveError"
+msgid "MetaHuman Identity Solve Error"
+msgstr "MetaHuman本体解算出错"
+
+#. Key:	IdentitySolveTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:779
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:779
+msgctxt "MetaHumanIdentityToolkit,IdentitySolveTransaction"
+msgid "MetaHuman Identity Solve"
+msgstr "MetaHuman本体解算"
+
+#. Key:	MetaHumanIdentityAssetActionsSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:432
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:432
+msgctxt "MetaHumanIdentityToolkit,MetaHumanIdentityAssetActionsSection"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman本体"
+
+#. Key:	OutlinerTabName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:186
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:186
+msgctxt "MetaHumanIdentityToolkit,OutlinerTabName"
+msgid "Outliner"
+msgstr "大纲视图"
+
+#. Key:	OutlinerTabTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:321
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:321
+msgctxt "MetaHumanIdentityToolkit,OutlinerTabTitle"
+msgid "Outliner"
+msgstr "大纲视图"
+
+#. Key:	PartsIdTabName
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:181
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:181
+msgctxt "MetaHumanIdentityToolkit,PartsIdTabName"
+msgid "Parts"
+msgstr "部位"
+
+#. Key:	PartsTabTitle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:296
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:296
+msgctxt "MetaHumanIdentityToolkit,PartsTabTitle"
+msgid "Parts"
+msgstr "部位"
+
+#. Key:	ResetTemplateMeshTransaction
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:828
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:828
+msgctxt "MetaHumanIdentityToolkit,ResetTemplateMeshTransaction"
+msgid "Reset Template Mesh"
+msgstr "重置模板网格体"
+
+#. Key:	SolveMenuLocalSolveSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:391
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:391
+msgctxt "MetaHumanIdentityToolkit,SolveMenuLocalSolveSection"
+msgid "Local Solve"
+msgstr "本地解算"
+
+#. Key:	ToolkitToolTipText
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:143
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:143
+msgctxt "MetaHumanIdentityToolkit,ToolkitToolTipText"
+msgid "MetaHuman Identity Asset Editor"
+msgstr "MetaHuman本体资产编辑器"
+
+#. Key:	TrackCurrentFrameLabelOverride
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:464
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:464
+msgctxt "MetaHumanIdentityToolkit,TrackCurrentFrameLabelOverride"
+msgid "Track Active Frame"
+msgstr "追踪活动帧"
+
+#. Key:	TrackCurrentTrasactionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:743
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:743
+msgctxt "MetaHumanIdentityToolkit,TrackCurrentTrasactionLabel"
+msgid "Track Promoted Frame"
+msgstr "追踪已提升的帧"
+
+#. Key:	TrackMenuTrackersSection
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:381
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:381
+msgctxt "MetaHumanIdentityToolkit,TrackMenuTrackersSection"
+msgid "Trackers"
+msgstr "追踪器"
+
+#. Key:	WorkspaceMenuCategory
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:176
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:176
+msgctxt "MetaHumanIdentityToolkit,WorkspaceMenuCategory"
+msgid "MetaHuman Identity"
+msgstr "MetaHuman本体"
+
+#. Key:	WorldCentricTabPrefix
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:148
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityAssetEditorToolkit.cpp:148
+msgctxt "MetaHumanIdentityToolkit,WorldCentricTabPrefix"
+msgid "MetaHuman "
+msgstr "MetaHuman"
+
+#. Key:	CameraOptionsFOVLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:560
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:560
+msgctxt "MetaHumanIdentityViewportToolbar,CameraOptionsFOVLabel"
+msgid "Field Of View"
+msgstr "视野"
+
+#. Key:	CurvesVisibilityLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:506
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:506
+msgctxt "MetaHumanIdentityViewportToolbar,CurvesVisibilityLabel"
+msgid "Curves"
+msgstr "曲线"
+
+#. Key:	CurvesVisibilityTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:507
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:507
+msgctxt "MetaHumanIdentityViewportToolbar,CurvesVisibilityTooltip"
+msgid "Toggle the curve visibility"
+msgstr "切换曲线可视性"
+
+#. Key:	EV100ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:170
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:170
+msgctxt "MetaHumanIdentityViewportToolbar,EV100ToolTip"
+msgid "Sets the exposure value of the camera using the specified EV100. Exposure = 1 / (1.2 * 2^EV100)"
+msgstr "使用指定的EV100设置摄像机的曝光值。曝光值 = 1 / (1.2 * 2^EV100)"
+
+#. Key:	ExposureHeader
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:198
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:198
+msgctxt "MetaHumanIdentityViewportToolbar,ExposureHeader"
+msgid "Exposure"
+msgstr "曝光值"
+
+#. Key:	FixedEV100
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:199
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:199
+msgctxt "MetaHumanIdentityViewportToolbar,FixedEV100"
+msgid "EV100"
+msgstr "EV100"
+
+#. Key:	GeometrySectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:472
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:472
+msgctxt "MetaHumanIdentityViewportToolbar,GeometrySectionLabel"
+msgid "Geometry"
+msgstr "几何体"
+
+#. Key:	MarkersSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:504
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:504
+msgctxt "MetaHumanIdentityViewportToolbar,MarkersSectionLabel"
+msgid "Markers"
+msgstr "标记"
+
+#. Key:	MixOptionsViewA
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:305
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:305
+msgctxt "MetaHumanIdentityViewportToolbar,MixOptionsViewA"
+msgid "A"
+msgstr "A"
+
+#. Key:	MixOptionsViewB
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:409
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:409
+msgctxt "MetaHumanIdentityViewportToolbar,MixOptionsViewB"
+msgid "B"
+msgstr "B"
+
+#. Key:	MultiScreenLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:444
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:444
+msgctxt "MetaHumanIdentityViewportToolbar,MultiScreenLabel"
+msgid "Dual"
+msgstr "双重"
+
+#. Key:	MultiScreenTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:445
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:445
+msgctxt "MetaHumanIdentityViewportToolbar,MultiScreenTooltip"
+msgid "Display View A and B in dual mode"
+msgstr "在双重模式下显示视图A和视图B"
+
+#. Key:	NeutralPoseMeshLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:474
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:474
+msgctxt "MetaHumanIdentityViewportToolbar,NeutralPoseMeshLabel"
+msgid "Neutral Pose"
+msgstr "中性姿势"
+
+#. Key:	NeutralPoseMeshTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:475
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:475
+msgctxt "MetaHumanIdentityViewportToolbar,NeutralPoseMeshTooltip"
+msgid "Toggle the visibility of the Neutral Pose Mesh"
+msgstr "切换中性姿势网格体的可视性"
+
+#. Key:	PointVisibilityLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:515
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:515
+msgctxt "MetaHumanIdentityViewportToolbar,PointVisibilityLabel"
+msgid "Control Vertices"
+msgstr "控制顶点"
+
+#. Key:	PointVisibilityTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:516
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:516
+msgctxt "MetaHumanIdentityViewportToolbar,PointVisibilityTooltip"
+msgid "Toggle the visibility of control vertices"
+msgstr "切换控制顶点的可视性"
+
+#. Key:	SingleScreenLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:435
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:435
+msgctxt "MetaHumanIdentityViewportToolbar,SingleScreenLabel"
+msgid "Single"
+msgstr "单一"
+
+#. Key:	SingleScreenTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:436
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:436
+msgctxt "MetaHumanIdentityViewportToolbar,SingleScreenTooltip"
+msgid "Display Single View"
+msgstr "显示单一视图"
+
+#. Key:	SplitScreenLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:453
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:453
+msgctxt "MetaHumanIdentityViewportToolbar,SplitScreenLabel"
+msgid "Wipe"
+msgstr "滑动"
+
+#. Key:	SplitScreenTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:454
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:454
+msgctxt "MetaHumanIdentityViewportToolbar,SplitScreenTooltip"
+msgid "Display view A and B with a wiper"
+msgstr "通过滑动器显示视图A和视图B"
+
+#. Key:	TemplateMeshLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:483
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:483
+msgctxt "MetaHumanIdentityViewportToolbar,TemplateMeshLabel"
+msgid "Template Mesh"
+msgstr "模板网格体"
+
+#. Key:	TemplateMeshTooltip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:484
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:484
+msgctxt "MetaHumanIdentityViewportToolbar,TemplateMeshTooltip"
+msgid "Toggle the Template Mesh Visibility"
+msgstr "切换模板网格体可视性"
+
+#. Key:	ViewAMenuToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:304
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:304
+msgctxt "MetaHumanIdentityViewportToolbar,ViewAMenuToolTip"
+msgid "View A Menu"
+msgstr "视图A菜单"
+
+#. Key:	ViewBMenuToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:408
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:408
+msgctxt "MetaHumanIdentityViewportToolbar,ViewBMenuToolTip"
+msgid "View B Menu"
+msgstr "视图B菜单"
+
+#. Key:	ViewMenuAToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:292
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:292
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuAToolTip"
+msgid "View Menu A"
+msgstr "视图菜单A"
+
+#. Key:	ViewMenuB
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:399
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:399
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuB"
+msgid "View B"
+msgstr "视图B"
+
+#. Key:	ViewMenuBToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:394
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:394
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuBToolTip"
+msgid "View B Menu"
+msgstr "视图B菜单"
+
+#. Key:	ViewMenuCameraSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:557
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:557
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuCameraSectionLabel"
+msgid "Camera"
+msgstr "摄像机"
+
+#. Key:	ViewMenuTitle_Default
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:59
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:59
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMenuTitle_Default"
+msgid "View"
+msgstr "视图"
+
+#. Key:	ViewMixSectionLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:433
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:433
+msgctxt "MetaHumanIdentityViewportToolbar,ViewMixSectionLabel"
+msgid "View Mix"
+msgstr "视图混合"
+
+#. Key:	ViewModeHeader
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:184
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/SMetaHumanIdentityViewportToolBar.cpp:184
+msgctxt "MetaHumanIdentityViewportToolbar,ViewModeHeader"
+msgid "View Mode"
+msgstr "视图模式"
+
+#. Key:	CurveColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:82
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:82
+msgctxt "MetaHumanMarkersOutliner,CurveColumn_Active"
+msgid "Active"
+msgstr "激活"
+
+#. Key:	CurveColumn_NameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:73
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:73
+msgctxt "MetaHumanMarkersOutliner,CurveColumn_NameLabel"
+msgid "Name"
+msgstr "名称"
+
+#. Key:	CurveColumn_Visible
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:77
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:77
+msgctxt "MetaHumanMarkersOutliner,CurveColumn_Visible"
+msgid "Visible"
+msgstr "可见"
+
+#. Key:	FrameColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:44
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:44
+msgctxt "MetaHumanMarkersOutliner,FrameColumn_Active"
+msgid "Active"
+msgstr "激活"
+
+#. Key:	FrameColumn_NameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:39
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:39
+msgctxt "MetaHumanMarkersOutliner,FrameColumn_NameLabel"
+msgid "Frames"
+msgstr "帧"
+
+#. Key:	GroupColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:64
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:64
+msgctxt "MetaHumanMarkersOutliner,GroupColumn_Active"
+msgid "Active"
+msgstr "激活"
+
+#. Key:	GroupColumn_NameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:54
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:54
+msgctxt "MetaHumanMarkersOutliner,GroupColumn_NameLabel"
+msgid "Group"
+msgstr "组"
+
+#. Key:	GroupColumn_Visible
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:59
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:59
+msgctxt "MetaHumanMarkersOutliner,GroupColumn_Visible"
+msgid "Visible"
+msgstr "可见"
+
+#. Key:	LandmarkColumn_Active
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:96
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:96
+msgctxt "MetaHumanMarkersOutliner,LandmarkColumn_Active"
+msgid "Active"
+msgstr "激活"
+
+#. Key:	LandmarkColumn_CurveNameLabel
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:92
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/UI/MetaHumanMarkersOutliner.cpp:92
+msgctxt "MetaHumanMarkersOutliner,LandmarkColumn_CurveNameLabel"
+msgid "Name"
+msgstr "名称"
+
+#. Key:	ActivateMarkersForAll
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForAll"
+msgid "Activate Markers (All Frames)"
+msgstr "激活标记（所有帧）"
+
+#. Key:	ActivateMarkersForAll_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:20
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForAll_ToolTip"
+msgid "Activate the display of markers for all promoted frames"
+msgstr "为所有提升的帧激活标记显示"
+
+#. Key:	ActivateMarkersForCurrent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForCurrent"
+msgid "Activate Markers (Current Frame)"
+msgstr "激活标记（当前帧）"
+
+#. Key:	ActivateMarkersForCurrent_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:19
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ActivateMarkersForCurrent_ToolTip"
+msgid "Activate the display of markers for the selected frame"
+msgstr "为已选择的帧激活标记显示"
+
+#. Key:	DemoteFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:34
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:34
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,DemoteFrame"
+msgid "Demote Frame"
+msgstr "降级帧"
+
+#. Key:	DemoteFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:34
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:34
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,DemoteFrame_ToolTip"
+msgid "Demote a Frame"
+msgstr "降级一帧"
+
+#. Key:	IdentitySolve
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,IdentitySolve"
+msgid "MetaHuman Identity Solve"
+msgstr "MetaHuman本体解算"
+
+#. Key:	IdentitySolve_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:23
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,IdentitySolve_ToolTip"
+msgid "MetaHuman Identity Solve"
+msgstr "MetaHuman本体解算"
+
+#. Key:	PromoteFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,PromoteFrame"
+msgid "Promote Frame"
+msgstr "提升帧"
+
+#. Key:	PromoteFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:33
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,PromoteFrame_ToolTip"
+msgid "Promote a Frame"
+msgstr "提升一帧"
+
+#. Key:	ResetTemplateMesh
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ResetTemplateMesh"
+msgid "Reset Template Mesh"
+msgstr "重置模板网格体"
+
+#. Key:	ResetTemplateMesh_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:22
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ResetTemplateMesh_ToolTip"
+msgid "Resets the Template Mesh"
+msgstr "重置模板网格体"
+
+#. Key:	RigidFitAll
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:27
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:27
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitAll"
+msgid "Rigid Fit (All Frames)"
+msgstr "刚性匹配（所有帧）"
+
+#. Key:	RigidFitAll_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:27
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:27
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitAll_ToolTip"
+msgid "Rigid fit the head in all frames"
+msgstr "刚性匹配所有帧的头部"
+
+#. Key:	RigidFitCurrent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitCurrent"
+msgid "Rigid Fit (Current Frame)"
+msgstr "刚性匹配（当前帧）"
+
+#. Key:	RigidFitCurrent_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:26
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,RigidFitCurrent_ToolTip"
+msgid "Rigid fit the head of the current frame"
+msgstr "刚性匹配当前帧的头部"
+
+#. Key:	SubmitToAutorig
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:24
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:24
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,SubmitToAutorig"
+msgid "Mesh to MetaHuman"
+msgstr "网格体转MetaHuman"
+
+#. Key:	SubmitToAutorig_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:24
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:24
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,SubmitToAutorig_ToolTip"
+msgid "Submit the template mesh for MetaHuman conversion, will become available in MetaHuman Creator and Bridge"
+msgstr "提交模板网格体进行MetaHuman转换后，可通过MetaHuman Creator和Bridge访问该MetaHuman。"
+
+#. Key:	ToggleGroupActiveForCurrentFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:37
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:37
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupActiveForCurrentFrame"
+msgid "Toggle Group Active"
+msgstr "切换组激活状态"
+
+#. Key:	ToggleGroupActiveForCurrentFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:37
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:37
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupActiveForCurrentFrame_ToolTip"
+msgid "Toggle Active For Current Frame"
+msgstr "切换当前帧激活状态"
+
+#. Key:	ToggleGroupVisibilityForCurrentFrame
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupVisibilityForCurrentFrame"
+msgid "Toggle Group Visibility"
+msgstr "切换组可视性"
+
+#. Key:	ToggleGroupVisibilityForCurrentFrame_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:36
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleGroupVisibilityForCurrentFrame_ToolTip"
+msgid "Toggle Visibility For Current Frame"
+msgstr "切换当前帧可视性"
+
+#. Key:	ToggleViewA
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewA"
+msgid "A"
+msgstr "A"
+
+#. Key:	ToggleViewA_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:30
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewA_ToolTip"
+msgid "Toggle View A"
+msgstr "切换视图A"
+
+#. Key:	ToggleViewB
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:31
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:31
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewB"
+msgid "B"
+msgstr "B"
+
+#. Key:	ToggleViewB_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:31
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:31
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ToggleViewB_ToolTip"
+msgid "Toggle View B"
+msgstr "切换视图B"
+
+#. Key:	TrackCurrent
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,TrackCurrent"
+msgid "Track Markers (Current Frame)"
+msgstr "追踪标记（当前帧）"
+
+#. Key:	TrackCurrent_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:17
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,TrackCurrent_ToolTip"
+msgid "Track the selected frame"
+msgstr "追踪已选择的帧"
+
+#. Key:	ViewToggle
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ViewToggle"
+msgid "<->"
+msgstr "<->"
+
+#. Key:	ViewToggle_ToolTip
+#. SourceLocation:	../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+#: ../../../Engine/Restricted/NotForLicensees/Plugins/MetaHuman/Source/MetaHumanIdentity/Private/MetaHumanIdentityCommands.cpp:29
+msgctxt "UICommands.FMetaHumanIdentityEditorCommands,ViewToggle_ToolTip"
+msgid "Swap the contents of A and B views"
+msgstr "交换视图A和视图B的内容"
+

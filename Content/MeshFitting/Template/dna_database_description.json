@@ -1,0 +1,10 @@
+{
+	"pca_identity_model": "aFsh_2021_10_01/aFsh_2021_10_01.face.pca",
+	"assets_identity_models": {
+		"eye_left": "aFsh_2021_10_01/aFsh_2021_10_01.eyeL.pca",
+		"eye_right": "aFsh_2021_10_01/aFsh_2021_10_01.eyeR.pca",
+		"teeth": "aFsh_2021_10_01/aFsh_2021_10_01.teeth.pca"
+	}
+}
+
+

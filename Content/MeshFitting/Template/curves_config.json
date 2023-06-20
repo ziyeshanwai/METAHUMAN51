@@ -1,0 +1,548 @@
+{
+	"pt_eye_corner_inner_l":
+	{
+		"type": "landmark",
+		"vID": 4009
+	},
+	"pt_eye_corner_inner_r":
+	{
+		"type": "landmark",
+		"vID": 938
+	},
+	"pt_eye_corner_outer_l":
+	{
+		"type": "landmark",
+		"vID": 3896
+	},
+	"pt_eye_corner_outer_r":
+	{
+		"type": "landmark",
+		"vID": 825
+	},
+	"pt_mouth_corner_l":
+	{
+		"type": "landmark",
+		"vID": 6135
+	},
+	"pt_mouth_corner_r":
+	{
+		"type": "landmark",
+		"vID": 12074
+	},
+	"pt_lip_upper_outer_m":
+	{
+		"type": "landmark",
+		"vID": 12104
+	},
+	"pt_lip_philtrum_l":
+	{
+		"type": "landmark",
+		"vID": 6155
+	},
+	"pt_lip_philtrum_r":
+	{
+		"type": "landmark",
+		"vID": 12097
+	},
+	"pt_lip_lower_outer_m":
+	{
+		"type": "landmark",
+		"vID": 12071
+	},
+	"pt_lip_upper_inner_m":
+	{
+		"type": "landmark",
+		"vID": 2904
+	},
+	"pt_lip_lower_inner_m":
+	{
+		"type": "landmark",
+		"vID": 2884
+	},
+	"pt_browmiddle_rs":
+	{
+		"type": "landmark",
+		"vID": 2046
+	},
+	"pt_browmiddle_re":
+	{
+		"type": "landmark",
+		"vID": 2063
+	},
+	"pt_browmiddle_ls":
+	{
+		"type": "landmark",
+		"vID": 5117
+	},
+	"pt_browmiddle_le":
+	{
+		"type": "landmark",
+		"vID": 5134
+	},
+	"pt_mentolabial_fold_l":
+	{
+		"type": "landmark",
+		"vID": 3733
+	},
+	"pt_mentolabial_fold_r":
+	{
+		"type": "landmark",
+		"vID": 662
+	},
+	"pt_outer_eyelid_ll":
+	{
+		"type": "landmark",
+		"vID": 3892
+	},
+	"pt_outer_eyelid_lr":
+	{
+		"type": "landmark",
+		"vID": 4019
+	},
+	"pt_outer_eyelid_rl":
+	{
+		"type": "landmark",
+		"vID": 948
+	},
+	"pt_outer_eyelid_rr":
+	{
+		"type": "landmark",
+		"vID": 821
+	},
+	"crv_eyecrease_l_start":
+	{
+		"type": "landmark",
+		"vID": 3788
+	},
+	"crv_eyecrease_l_end":
+	{
+		"type": "landmark",
+		"vID": 7479
+	},
+	"crv_eyecrease_r_start":
+	{
+		"type": "landmark",
+		"vID": 717
+	},
+	"crv_eyecrease_r_end":
+	{
+		"type": "landmark",
+		"vID": 13455
+	},	
+	"pt_naso_upper_r": 
+	{ 
+		"type": "landmark", 
+		"vID": 579 
+	},	
+	"pt_naso_lower_r": 
+	{ 
+		"type": "landmark", 
+		"vID": 630 
+	},	
+	"pt_naso_upper_l": 
+	{ 
+		"type": "landmark",
+		"vID": 3650 
+	},	
+	"pt_naso_lower_l": 
+	{ 
+		"type": "landmark",
+		"vID": 3701 
+	},
+	"crv_nostril_l_loop":
+	{
+		"type": "landmark",
+		"vID": 3613
+	},
+	"crv_nostril_r_loop":
+	{
+		"type": "landmark",
+		"vID": 542
+	},
+	"eye_plica_semilunaris_l_start":
+	{
+		"type": "landmark",
+		"vID": 8660
+	},
+	"eye_plica_semilunaris_l_end":
+	{
+		"type": "landmark",
+		"vID": 8654
+	},
+	"eye_plica_semilunaris_r_start":
+	{
+		"type": "landmark",
+		"vID": 14638
+	},
+	"eye_plica_semilunaris_r_end":
+	{
+		"type": "landmark",
+		"vID": 14634
+	},
+	"ear_outer_helix_l_end":
+	{
+		"type": "landmark",
+		"vID": 4183
+	},
+	"pt_ear_lobule_connection_l":
+	{
+		"type": "landmark",
+		"vID": 4385
+	},
+	"ear_outer_helix_r_end":
+	{
+		"type": "landmark",
+		"vID": 1112
+	},
+	"pt_ear_lobule_connection_r":
+	{
+		"type": "landmark",
+		"vID": 1314
+	},
+	"ear_inner_helix_l_start":
+	{
+		"type": "landmark",
+		"vID": 8609
+	},
+	"ear_inner_helix_l_end":
+	{
+		"type": "landmark",
+		"vID": 4114
+	},
+	"ear_inner_helix_r_start":
+	{
+		"type": "landmark",
+		"vID": 14588
+	},
+	"ear_inner_helix_r_end":
+	{
+		"type": "landmark",
+		"vID": 1043
+	},
+	"ear_central_lower_l_start":
+	{
+		"type": "landmark",
+		"vID": 22178
+	},
+	"ear_central_mid_l":
+	{
+		"type": "landmark",
+		"vID": 22077
+	},
+	"ear_central_upper_l_end":
+	{
+		"type": "landmark",
+		"vID": 8368
+	},
+	"ear_central_lower_r_start":
+	{
+		"type": "landmark",
+		"vID": 19165
+	},
+	"ear_central_mid_r":
+	{
+		"type": "landmark",
+		"vID": 19064
+	},
+	"ear_central_upper_r_end":
+	{
+		"type": "landmark",
+		"vID": 14350
+	},
+	"crv_eyecrease_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "crv_eyecrease_l_start",
+		"end": "crv_eyecrease_l_end",
+		"vIDs": [ 3788, 8741, 3858, 7533, 3855, 7529, 3854, 9130, 3852, 7526, 3849, 7522, 3848, 7812, 3866, 7546, 3869, 8690, 3810, 7465, 3809, 7469, 3813, 7475, 3817, 7479 ]
+	},
+	"crv_eyecrease_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "crv_eyecrease_r_start",
+		"end": "crv_eyecrease_r_end",
+		"vIDs": [ 717, 14720, 787, 13514, 784, 13511, 783, 15110, 781, 13507, 778, 13504, 777, 13790, 795, 13522, 798, 14669, 739, 13444, 738, 13447, 742, 13453, 746, 13455 ]
+	},
+	"crv_lip_upper_outer_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_philtrum_l",
+		"end": "pt_mouth_corner_l",
+		"vIDs": [ 6155, 21059, 6151, 21057, 6094, 21039, 6096, 21058, 6099, 21040, 6089, 21037, 6085, 21036, 6087, 21038, 6093, 21053, 6137, 21052, 6139, 21056, 6133, 21051, 6135 ]
+	},
+	"crv_lip_upper_outer_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_philtrum_r",
+		"end": "pt_mouth_corner_r",
+		"vIDs": [ 12097, 18046, 12091, 18044, 12038, 18026, 12036, 18045, 12040, 18027, 12030, 18024, 12027, 18023, 12025, 18025, 12032, 18040, 12080, 18039, 12078, 18043, 12076, 18038, 12074 ]
+	},
+	"crv_lip_lower_outer_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_lower_outer_m",
+		"end": "pt_mouth_corner_l",
+		"vIDs": [ 12071, 21050, 6125, 21048, 6127, 21049, 6102, 21041, 6104, 21060, 6159, 21061, 6106, 21042, 6108, 21045, 6117, 21047, 6119, 21046, 6114, 21044, 6109, 21043, 6111, 21055, 6142, 21054, 6135 ]
+	},
+	"crv_lip_lower_outer_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_lower_outer_m",
+		"end": "pt_mouth_corner_r",
+		"vIDs": [ 12071, 18037, 12067, 18035, 12065, 18036, 12044, 18028, 12042, 18047, 12099, 18048, 12048, 18029, 12046, 18032, 12058, 18034, 12062, 18033, 12055, 18031, 12053, 18030, 12051, 18042, 12086, 18041, 12074 ]
+	},
+	"crv_lip_lower_inner_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_lower_inner_m",
+		"end": "pt_mouth_corner_l",
+		"vIDs": [2904, 6461, 3284, 6455, 3279, 6445, 3272, 6432, 3273, 6844, 3264, 6417, 3259, 6407, 3254, 6397, 3249, 6387, 3237, 6361, 3236, 6359, 3235, 6357, 3234, 6354, 6135]
+	},
+	"crv_lip_lower_inner_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_lower_inner_m",
+		"end": "pt_mouth_corner_r",
+		"vIDs": [2904, 12412, 213, 12402, 208, 12392, 201, 12382, 202, 12808, 193, 12364, 188, 12354, 183, 12344, 178, 12334, 166, 12308, 165, 12306, 164, 12304, 163, 12303, 12074]
+	},
+	"crv_lip_upper_inner_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_upper_inner_m",
+		"end": "pt_mouth_corner_l",
+		"vIDs": [2884, 6731, 3421, 6726, 3414, 6712, 3413, 6710, 3409, 6702, 3405, 6694, 3401, 6686, 3397, 6678, 3393, 6670, 3389, 6662, 3388, 6660, 3387, 6658, 3386, 6657, 6135]
+	},
+	"crv_lip_upper_inner_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_upper_inner_m",
+		"end": "pt_mouth_corner_r",
+		"vIDs": [2884, 12692, 350, 12684, 343, 12671, 342, 12668, 338, 12660, 334, 12652, 330, 12644, 326, 12636, 322, 12628, 318, 12620, 317, 12618, 316, 12616, 315, 12613, 12074]
+	},
+	"crv_lip_philtrum_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_upper_outer_m",
+		"end": "pt_lip_philtrum_l",
+		"vIDs": [ 12104, 21062, 6163, 21063, 6155 ]
+	},
+	"crv_lip_philtrum_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_lip_upper_outer_m",
+		"end": "pt_lip_philtrum_r",
+		"vIDs": [ 12104, 18049, 12106, 18050, 12097 ]
+	},
+	"crv_eyelid_lower_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_eye_corner_inner_l",
+		"end": "pt_eye_corner_outer_l",
+		"vIDs": [ 4009, 7748, 4006, 7742, 4001, 7735, 3999, 7732, 3997, 7727, 3996, 8702, 3976, 7696, 3973, 7692, 3972, 7689, 3971, 8760, 3942, 7645, 3941, 7644, 3903, 7588, 3902, 8763, 3897, 7581, 3896 ]
+	},
+	"crv_eyelid_upper_l":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_eye_corner_inner_l",
+		"end": "pt_eye_corner_outer_l",
+		"vIDs": [ 4009, 7896, 4079, 7863, 4076, 7857, 4067, 7841, 4064, 7839, 4059, 7831, 4060, 8696, 4025, 7776, 4024, 9121, 3980, 7700, 3979, 7707, 3985, 8749, 4087, 7889, 3909, 7595, 3908, 8767, 3896 ]
+	},
+	"crv_eyelid_lower_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_eye_corner_inner_r",
+		"end": "pt_eye_corner_outer_r",
+		"vIDs": [ 938, 13725, 935, 13721, 930, 13716, 928, 13709, 926, 13707, 925, 14681, 905, 13676, 902, 13673, 901, 13670, 900, 14739, 871, 13625, 870, 13621, 832, 13567, 831, 14742, 826, 13560, 825 ]
+	},
+	"crv_eyelid_upper_r":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_eye_corner_inner_r",
+		"end": "pt_eye_corner_outer_r",
+		"vIDs": [ 938, 13874, 1008, 13842, 1005, 13838, 996, 13820, 993, 13816, 988, 13811, 989, 14675, 954, 13756, 953, 15102, 909, 13680, 908, 13686, 914, 14729, 1016, 13867, 838, 13573, 837, 14746, 825 ]
+	},
+	"crv_nasolabial_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_naso_upper_l",
+		"end": "pt_naso_lower_l",
+		"vIDs": [ 3650, 7222, 3651, 7402, 3653, 7223, 3652, 7232, 3659, 7235, 3661, 7263, 3669, 7244, 3667, 7241, 3665, 7238, 3664, 7277, 3689, 7290, 3697, 7295, 3701 ]
+	},
+	"crv_nasolabial_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_naso_upper_r",
+		"end": "pt_naso_lower_r",
+		"vIDs": [ 579, 13197, 580, 13377, 582, 13202, 581, 13206, 588, 13209, 590, 13238, 598, 13220, 596, 13217, 594, 13213, 593, 13253, 618, 13264, 626, 13271, 630 ]
+	},
+	"crv_nostril_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "crv_nostril_l_loop",
+		"end": "crv_nostril_l_loop",
+		"vIDs": [ 3613, 7165, 3614, 11156, 5612, 11090, 3627, 7181, 3628, 7185, 3624, 7178, 3625, 9664, 4957, 11121, 5621, 11105, 5619, 11102, 4742, 9228, 3622, 7175, 3620, 7172, 3616, 7168, 3617, 11146, 3638, 7201, 3613 ]
+	},
+	"crv_nostril_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "crv_nostril_r_loop",
+		"end": "crv_nostril_r_loop",
+		"vIDs": [ 542, 13140, 543, 17189, 2541, 17123, 556, 13160, 557, 13162, 553, 13155, 554, 15655, 1886, 17155, 2550, 17134, 2548, 17131, 1671, 15215, 551, 13151, 549, 13148, 545, 13145, 546, 17179, 567, 13176, 542 ]
+	},
+	"eye_plica_semilunaris_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "eye_plica_semilunaris_l_start",
+		"end": "eye_plica_semilunaris_l_end",
+		"vIDs": [ 8660, 4506, 8992, 4638, 8995, 4640, 9168, 4504, 8656, 4503, 8654 ]
+	},
+	"eye_plica_semilunaris_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "eye_plica_semilunaris_r_start",
+		"end": "eye_plica_semilunaris_r_end",
+		"vIDs": [ 14638, 1435, 14973, 1567, 14976, 1569, 15149, 1433, 14637, 1432, 14634 ]
+	},
+	"crv_ear_outer_helix_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_ear_lobule_connection_l",
+		"end": "ear_outer_helix_l_end",
+		"vIDs": [ 4385, 8420, 4214, 8049, 4215, 9524, 4189, 8010, 4188, 8065, 4222, 8094, 4233, 8078, 4231, 8075, 4110, 7918, 4111, 7947, 4102, 7910, 4103, 8018, 4123, 7931, 4122, 8056, 4128, 7936, 4127, 8263, 4168, 7987, 4167, 8290, 4172, 7991, 4171, 8143, 4176, 7995, 4175, 8126, 4184, 8004, 4183 ]
+	},
+	"crv_ear_outer_helix_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_ear_lobule_connection_r",
+		"end": "ear_outer_helix_r_end",
+		"vIDs": [ 1314, 14398, 1143, 14027, 1144, 15511, 1118, 13990, 1117, 14042, 1151, 14072, 1162, 14055, 1160, 14052, 1039, 13896, 1040, 13929, 1031, 13888, 1032, 13997, 1052, 13913, 1051, 14034, 1057, 13916, 1056, 14243, 1097, 13969, 1096, 14268, 1101, 13973, 1100, 14121, 1105, 13977, 1104, 14105, 1113, 13982, 1112 ]
+	},
+	"crv_ear_inner_helix_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "ear_inner_helix_l_start",
+		"end": "ear_inner_helix_l_end",
+		"vIDs": [ 8609, 4430, 8503, 4358, 8349, 4351, 8340, 4352, 8351, 4359, 8518, 4350, 8339, 4277, 8181, 4254, 8119, 4257, 8139, 4264, 8135, 4263, 8216, 4273, 8166, 4274, 8326, 4320, 8248, 4321, 8261, 4243, 8100, 4118, 7926, 4119, 8038, 4106, 7914, 4107, 7982, 4113, 7921, 4114 ]
+	},
+	"crv_ear_inner_helix_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "ear_inner_helix_r_start",
+		"end": "ear_inner_helix_r_end",
+		"vIDs": [ 14588, 1359, 14483, 1287, 14326, 1280, 14322, 1281, 14330, 1288, 14497, 1279, 14316, 1206, 14158, 1183, 14095, 1186, 14116, 1193, 14114, 1192, 14194, 1202, 14143, 1203, 14305, 1249, 14229, 1250, 14240, 1172, 14081, 1047, 13904, 1048, 14018, 1035, 13892, 1036, 13960, 1042, 13901, 1043 ]
+	},
+	"crv_ear_central_lower_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "ear_central_lower_l_start",
+		"end": "ear_central_mid_l",
+		"vIDs": [ 22178, 8611, 22179, 8613, 23294, 9434, 22622, 8782, 22285, 8783, 22624, 8493, 22116, 8491, 22115, 8411, 22077 ]
+	},
+	"crv_ear_central_lower_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "ear_central_lower_r_start",
+		"end": "ear_central_mid_r",
+		"vIDs": [ 19165, 14591, 19166, 14593, 20281, 15422, 19609, 14761, 19272, 14760, 19611, 14471, 19103, 14469, 19102, 14390, 19064 ]
+	},
+	"crv_ear_central_upper_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "ear_central_mid_l",
+		"end": "ear_central_upper_l_end",
+		"vIDs": [ 22077, 8412, 22664, 8189, 21955, 8187, 21956, 8192, 21957, 8194, 21964, 8207, 21962, 8209, 21994, 8267, 21995, 8270, 22056, 8277, 21998, 8279, 22064, 8288, 22001, 7939, 21864, 7941, 22088, 8370, 22050, 8368 ]
+	},
+	"crv_ear_central_upper_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "ear_central_mid_r",
+		"end": "ear_central_upper_r_end",
+		"vIDs": [ 19064, 14389, 19651, 14165, 18942, 14167, 18943, 14169, 18944, 14173, 18951, 14189, 18949, 14187, 18981, 14246, 18982, 14249, 19043, 14257, 18985, 14255, 19051, 14266, 18988, 13921, 18851, 13919, 19075, 14348, 19037, 14350 ]
+	},
+	"brow_middle_line_l":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_browmiddle_le",
+		"end": "pt_browmiddle_ls",
+		"vIDs": [ 5134, 10042, 5133, 10040, 5132, 10038, 5131, 10036, 5129, 10032, 5130, 10034, 5118, 10010, 5119, 10028, 5128, 10030, 5125, 10023, 5126, 10027, 5127, 10026, 5120, 10013, 5121, 10021, 5122, 10016, 5123, 10020, 5124, 10019, 5116, 10007, 5117 ]
+	},
+	"brow_middle_line_r":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_browmiddle_re",
+		"end": "pt_browmiddle_rs",
+		"vIDs": [ 2063, 16037, 2062, 16035, 2061, 16033, 2060, 16031, 2058, 16028, 2059, 16030, 2047, 16006, 2048, 16025, 2057, 16026, 2054, 16019, 2055, 16023, 2056, 16021, 2049, 16009, 2050, 16017, 2051, 16012, 2052, 16016, 2053, 16014, 2045, 16003, 2046 ]
+	},
+	"crv_mentolabial_fold":
+	{
+		"type": "curve",
+		"endPoints": false,
+		"start": "pt_mentolabial_fold_r",
+		"end": "pt_mentolabial_fold_l",
+		"vIDs": [ 662, 13323, 663, 13332, 666, 13328, 665, 13326, 664, 13330, 667, 15047, 2968, 9067, 3738, 7355, 3735, 7350, 3736, 7353, 3737, 7356, 3734, 7348, 3733 ]
+	},
+	"crv_outer_eyelid_edge_right_lower":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_outer_eyelid_rr",
+		"end": "pt_outer_eyelid_rl",
+		"vIDs": [ 821, 13555, 824, 14726, 829, 13564, 828, 13607, 858, 13608, 862, 14737, 864, 13614, 865, 15095, 883, 13640, 881, 13635, 882, 13657, 890, 13655, 891, 13730, 940, 13744, 946, 13748, 948 ]
+	},
+	"crv_outer_eyelid_edge_right_upper":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_outer_eyelid_rr",
+		"end": "pt_outer_eyelid_rl",
+		"vIDs": [ 821, 14745, 841, 13581, 842, 13585, 843, 14730, 982, 13801, 916, 13691, 917, 15104, 958, 13762, 959, 14673, 962, 13766, 961, 13803, 985, 13827, 998, 13828, 1001, 13834, 1003, 13853, 948 ]
+	},
+	"crv_outer_eyelid_edge_left_upper":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_outer_eyelid_ll",
+		"end": "pt_outer_eyelid_lr",
+		"vIDs": [ 3892, 8765, 3912, 7600, 3913, 7603, 3914, 8751, 4053, 7820, 3987, 7712, 3988, 9124, 4029, 7783, 4030, 8693, 4033, 7786, 4032, 7826, 4056, 7847, 4069, 7852, 4072, 7854, 4074, 7875, 4019 ]
+	},
+	"crv_outer_eyelid_edge_left_lower":
+	{
+		"type": "curve",
+		"endPoints": true,
+		"start": "pt_outer_eyelid_ll",
+		"end": "pt_outer_eyelid_lr",
+		"vIDs": [ 3892, 7579, 3895, 8745, 3900, 7584, 3899, 7626, 3929, 7632, 3933, 8758, 3935, 7634, 3936, 9115, 3954, 7659, 3952, 7657, 3953, 7677, 3961, 7673, 3962, 7752, 4011, 7763, 4017, 7767, 4019 ]
+	}
+}

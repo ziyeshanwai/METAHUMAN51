@@ -1,0 +1,20 @@
+{
+    "topology": "mean.obj",
+    "symmetry": "symmetry.json",
+    "identity_model": "identity_model.json",
+    "mesh_landmarks": "landmarks_rig_calibration.json",
+    "masks": "fitting_masks.json",
+	"assets": {
+		"teeth": {
+			"topology": "teeth_model.obj",
+			"masks": "teeth_mask.json"
+		},
+		"eye": {
+			"topology": "eye_model.obj",
+			"masks": "eye_mask.json"
+		}
+	},
+    "texture": "DHI_guide_lines.jpg"
+}
+
+
